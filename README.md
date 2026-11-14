@@ -48,15 +48,15 @@ This terminal stays busy. Open a **second terminal** (and `cd` to the project fo
 
 ## 5. Verify the data loaded
 ```
-./scripts/verify.sh
+docker compose exec app python verify.py
 ```
 It compares each table's row count with its CSV and checks foreign keys. It should end with `PASS`.
 
 ## 6. Ask the LLM a question
 ```
-./scripts/ask.sh "I want to become a backend developer"
+python3 ask.py
 ```
-Output looks like `SWE_BACKEND - Backend Software Engineer`. Run it with no text to be prompted. If nothing matches you get `No match (null)`.
+It prints `Enter text:`. Type a goal and press Enter, e.g. `I want to become a backend developer`, and it answers like `Answer: SWE_BACKEND - Backend Software Engineer`. It keeps asking until you press Ctrl+C. If nothing matches you get `Answer: no match`. (Needs Python 3 on your computer; no extra packages.)
 
 Or call the API directly:
 ```
@@ -81,7 +81,7 @@ Logs live in Postgres, database `litellm`, table `LiteLLM_SpendLogs`.
 | Peek into the database | `docker compose exec db psql -U postgres -d kb` |
 
 ## 9. Troubleshooting
-- **`No match (null)` for everything** — the app swallows errors. Check `docker compose logs litellm`. After editing `.env`, restart *all* services: `docker compose up -d --force-recreate`.
+- **`Answer: no match` for everything** — the app swallows errors. Check `docker compose logs litellm`. After editing `.env`, restart *all* services: `docker compose up -d --force-recreate`.
 - **"Invalid API Key" in LiteLLM logs** — wrong `GROQ_API_KEY` in `.env`.
 - **"model does not exist"** — change the model in `litellm/config.yaml` (currently `groq/openai/gpt-oss-120b`).
 - **Dashboard says "Too many failed sign-in attempts"** — `docker compose up -d --force-recreate litellm`, and use the master key as password.
@@ -95,13 +95,13 @@ docker-compose.yml     the 3 services: db (Postgres 16), litellm, app
 .env / .env.example    secrets
 db/data/*.csv          your data (one CSV per sheet tab)
 db/init/               runs once on a fresh DB: 01 schema, 02 load CSVs,
-                       03 foreign keys/indexes/view, 04 read-only role
+                       03 foreign keys/indexes/view, 04 litellm database
 litellm/config.yaml    model alias `grok` -> Groq model
-app/main.py            the API (POST /map-goal) and the LLM call
-scripts/verify.sh      checks row counts and foreign keys
-scripts/ask.sh         ask a question from the terminal
+app/main.py            the API (POST /map-goal), the LLM call, creates the read-only DB role
+app/verify.py          checks row counts and foreign keys
+ask.py                 ask a question from the terminal
 ```
 
 ## 11. Safety notes
-- The LLM's SQL runs as `goal_reader`, which can only `SELECT` from `goals`, with a 3-second timeout.
+- The LLM's SQL runs as `goal_reader` (created by the app at startup), which can only `SELECT` from `goals`, with a 3-second timeout.
 - The app accepts only a single `SELECT`, rejects `;` inside it, forces `LIMIT 1`, and returns `null` on any error (no retries).

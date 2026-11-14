@@ -1,5 +1,6 @@
 import os, re
 import psycopg
+import psycopg.sql
 from fastapi import FastAPI
 from openai import OpenAI
 
@@ -13,9 +14,17 @@ goal_type TEXT, definition TEXT, horizon_months INTEGER, assessment_methods TEXT
 
 @app.on_event("startup")
 def load_goals():
+    with psycopg.connect(host=H, dbname="kb", user="postgres", password=os.environ["DB_PASSWORD"], autocommit=True) as c:
+        pw = os.environ["GOAL_READER_PASSWORD"]
+        c.execute(psycopg.sql.SQL("DO $$ BEGIN IF NOT EXISTS (SELECT 1 FROM pg_roles WHERE rolname='goal_reader') "
+                                  "THEN CREATE ROLE goal_reader LOGIN; END IF; END $$"))
+        c.execute(psycopg.sql.SQL("ALTER ROLE goal_reader PASSWORD {}").format(psycopg.sql.Literal(pw)))
+        c.execute("GRANT SELECT ON goals TO goal_reader")
+        c.execute("ALTER ROLE goal_reader SET statement_timeout = '3s'")
     with psycopg.connect(host=H, dbname="kb", user="postgres", password=os.environ["DB_PASSWORD"]) as c:
         rows = c.execute("SELECT goal_id, name FROM goals ORDER BY goal_id").fetchall()
     app.state.ids = {r[0] for r in rows}
+    app.state.names = dict(rows)
     app.state.system = (
         f"Schema:\n{DDL}\n\nGoals (goal_id | name):\n" + "\n".join(f"{i} | {n}" for i, n in rows)
         + "\n\nWrite ONE read-only PostgreSQL SELECT that returns the single best-matching goal_id "
@@ -43,6 +52,7 @@ def map_goal(body: dict):
         with psycopg.connect(host=H, dbname="kb", user="goal_reader", password=os.environ["GOAL_READER_PASSWORD"]) as c:
             row = c.execute(sql).fetchone()
         gid = row[0] if row else None
-        return {"goal_id": gid if gid in app.state.ids else None}
+        gid = gid if gid in app.state.ids else None
+        return {"goal_id": gid, "name": app.state.names.get(gid)}
     except Exception:
         return {"goal_id": None}

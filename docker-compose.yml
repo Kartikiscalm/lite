@@ -29,6 +29,8 @@ services:
       - ./litellm/config.yaml:/app/config.yaml:ro
   app:
     build: ./app
+    volumes:
+      - ./db/data:/data:ro
     depends_on:
       db: {condition: service_healthy}
       litellm: {condition: service_started}
