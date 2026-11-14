@@ -1,0 +1,26 @@
+programme,skill_id,skill_name,recommended_faculty (primary first),faculty_count
+Chemical Engineering,CHEMICAL_TECHNOLOGY,Chemical Technology,Prashant Kumar Gupta (primary); Sumit Kamal (primary); Pradip Kumar Tewari (secondary),3
+Chemical Engineering,FLUID_MECH_OPERATIONS,Fluid Mechanics and Mechanical Operations,Vikky Anand (primary),1
+Chemical Engineering,LAB_PRACTICE_SAFETY,Laboratory Practice and Safety,Prashant Kumar Gupta (secondary),1
+Chemical Engineering,MASS_TRANSFER,Mass Transfer,Pradip Kumar Tewari (primary); Angan Sengupta (secondary); Praveenkumar Sappidi (secondary); Vikky Anand (secondary),4
+Chemical Engineering,PLANT_DESIGN_ECONOMICS,Plant Design and Economics,Sumit Kamal (secondary),1
+Chemical Engineering,REACTION_ENGINEERING,Chemical Reaction Engineering,Sumit Kamal (primary); Vikky Anand (secondary),2
+Chemical Engineering,SCIENTIFIC_COMPUTING,Scientific Computing and Process Modelling,Angan Sengupta (primary); Prasenjit Sarkar (primary); Praveenkumar Sappidi (primary),3
+Chemical Engineering,THERMODYNAMICS,Chemical Engineering Thermodynamics,Angan Sengupta (primary); Praveenkumar Sappidi (primary),2
+Software,AI_ENGINEERING,Building with LLMs,Anand Mishra (secondary),1
+Software,AI_SAFETY_EVALUATION,"AI Safety, Evaluation and Observability",Richa Singh (primary),1
+Software,CALCULUS_OPTIMISATION,Calculus and Optimisation,Atul Kumar Sharma (secondary); Payal Vyankat Dahiwale (secondary); Rajit Ranjan (secondary); Susmita Panda (secondary); Vineeth V (secondary),5
+Software,COMPUTER_ARCHITECTURE,Computer Organization and Architecture,Dip Sankar Banerjee (primary),1
+Software,COMPUTER_NETWORKS,Computer Networks,Debasis Das (primary),1
+Software,DATA_ANALYSIS,Data Handling and Analysis,Suman Kundu (primary); Anil Kumar Tiwari (secondary); Pankaj Yadav (secondary); Rajendra Nagar (secondary); Riby Abraham Boby (secondary); Sandeep Kumar Yadav (secondary); Suchetana Chakraborty (secondary),7
+Software,DATA_ENGINEERING,Data Engineering and Pipelines,Dip Sankar Banerjee (secondary),1
+Software,DBMS_SQL,Databases and SQL,Chiranjoy Chattopadhyay (secondary),1
+Software,DEEP_LEARNING,Deep Learning,Anand Mishra (primary); Chiranjoy Chattopadhyay (primary); Deepak Mishra (primary); Mayank Vatsa (primary); Pratik Mazumder (primary); Richa Singh (primary); Debasis Das (secondary); Pankaj Yadav (secondary),8
+Software,DISCRETE_MATH,Discrete Mathematics,Pallavi Jain (primary); Somitra Kumar Sanadhya (secondary),2
+Software,DSA,Data Structures and Algorithms,Pallavi Jain (primary); Suman Kundu (secondary),2
+Software,EMBEDDED_SYSTEMS,Embedded Systems and Low-level Programming,Suchetana Chakraborty (primary); Ambuj Kumar Gautam (secondary); Amit Kumar Rathi (secondary); Amrita Puri (secondary); Anoop Jain (secondary); Avinash Kumar Agarwal (secondary); B Ravindra (secondary); Debasis Das (secondary); Riby Abraham Boby (secondary); Roshan Kumar Hota (secondary); Saurav Kumar (secondary); Sumit Kalra (secondary); Suril Shah (secondary); Susmita Panda (secondary); Vignesh Muralidharan (secondary),15
+Software,MACHINE_LEARNING,Machine Learning Fundamentals,Anand Mishra (primary); Deepak Mishra (primary); Mayank Vatsa (primary); Pratik Mazumder (primary); Richa Singh (primary); Debarati Bhunia Chakraborty (secondary); Lalit (secondary); P Ravi Prakash (secondary); Ravi Yadav (secondary); Sandeep Kumar Yadav (secondary); Suman Kundu (secondary); Sumeet Rajesh Khanna (secondary); Susmita Panda (secondary),13
+Software,OPERATING_SYSTEMS,Operating Systems,Dip Sankar Banerjee (secondary),1
+Software,PROBABILITY_STATISTICS,Probability and Statistics,Amit Kumar Rathi (secondary); Pankaj Yadav (secondary),2
+Software,SECURITY_BASICS,Application Security Basics,Debasis Das (primary); Somitra Kumar Sanadhya (primary); Mayank Vatsa (secondary),3
+Software,SOFTWARE_ENGINEERING,Software Engineering Practices,Sumit Kalra (primary); Chiranjoy Chattopadhyay (secondary),2

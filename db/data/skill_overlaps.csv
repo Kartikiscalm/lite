@@ -1,0 +1,10 @@
+software_skill_id,chemical_engineering_skill_id,why they overlap,suggested action,decision,note
+APTITUDE_REASONING,QUANTITATIVE_REASONING,Both cover arithmetic and logical reasoning under time limits,Merge into one shared id,,
+LINEAR_ALGEBRA,ENGG_MATHEMATICS,Engineering Mathematics includes linear algebra,Keep both; link LINEAR_ALGEBRA as a part of ENGG_MATHEMATICS,,
+CALCULUS_OPTIMISATION,ENGG_MATHEMATICS,Engineering Mathematics includes calculus and differential equations,Keep both; link CALCULUS_OPTIMISATION as a part of ENGG_MATHEMATICS,,
+PROBABILITY_STATISTICS,ENGG_MATHEMATICS,Engineering Mathematics includes probability and statistics,Keep both; link PROBABILITY_STATISTICS as a part of ENGG_MATHEMATICS,,
+PROBABILITY_STATISTICS,DATA_ANALYSIS_STATS,"Both cover estimation, regression and hypothesis testing","Merge into one shared id, or make one the prerequisite of the other",,
+DATA_ANALYSIS,DATA_ANALYSIS_STATS,Both involve analysing data with code or software,Keep separate; the contexts (software data vs experiments) differ,,
+TECHNICAL_COMMUNICATION,TECHNICAL_WRITING,Both cover clear written explanation of technical work,Merge the writing part into one shared id; keep interviewing separate,,
+TECHNICAL_COMMUNICATION,RESEARCH_PRESENTATION,Both cover explaining work and answering questions in an interview or viva,Keep separate or merge the speaking part into one shared id,,
+PROGRAMMING,SCIENTIFIC_COMPUTING,Both need programming; scientific computing adds numerical methods,Keep both; make PROGRAMMING a prerequisite of SCIENTIFIC_COMPUTING,,

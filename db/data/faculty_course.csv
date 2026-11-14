@@ -1,0 +1,7 @@
+faculty_id,programme,course_id,relation,evidence_url,note
+F_CSE_02,Software,SOFTWARE_ENGINEERING,taught,http://home.iitj.ac.in/~chiranjoy/,"Historical: older course codes (CS 223, CS 322, CS 312, CS 654) on personal page, AY 2015-2020; matched by title to current catalogue; confirm current offering"
+F_CSE_02,Software,DATABASE_SYSTEMS,taught,http://home.iitj.ac.in/~chiranjoy/,"Historical: older course codes (CS 223, CS 322, CS 312, CS 654) on personal page, AY 2015-2020; matched by title to current catalogue; confirm current offering"
+F_CSE_02,Software,COMPILER_DESIGN,taught,http://home.iitj.ac.in/~chiranjoy/,"Historical: older course codes (CS 223, CS 322, CS 312, CS 654) on personal page, AY 2015-2020; matched by title to current catalogue; confirm current offering"
+F_CSE_02,Software,DIGITAL_IMAGE_ANALYSIS,taught,http://home.iitj.ac.in/~chiranjoy/,"Historical: older course codes (CS 223, CS 322, CS 312, CS 654) on personal page, AY 2015-2020; matched by title to current catalogue; confirm current offering"
+F_CHE_02,Chemical Engineering,FLUID_MECHANICS,taught,https://www.iitj.ac.in/People/Profile/aac67431-8aa8-4ddb-942e-44e13ae582a1,Listed as CHL2010 and CHP3060 on official profile
+F_CHE_02,Chemical Engineering,FLUID_MECHANICS_LAB,taught,https://www.iitj.ac.in/People/Profile/aac67431-8aa8-4ddb-942e-44e13ae582a1,Listed as CHL2010 and CHP3060 on official profile

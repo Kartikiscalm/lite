@@ -1,0 +1,165 @@
+programme,skill_id,skill_name,course_id,course_name,modules_covering,lecture_hours_covering,source,relevance,stage,status
+Software,PROGRAMMING,Programming Fundamentals,PRINCIPLES_OF_PROGRAMMING_LANGUAGES,Principles of Programming Languages,6,32,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,DSA,Data Structures and Algorithms,DATA_STRUCTURES_AND_ALGORITHMS,Data Structures and Algorithms,9,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,DSA,Data Structures and Algorithms,DESIGN_AND_ANALYSIS_OF_ALGORITHMS,Design and Analysis of Algorithms,7,37,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,CODING_PROBLEM_SOLVING,Timed Coding Problem Solving,,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,OOP_DESIGN,Object-Oriented Programming and Design,PRINCIPLES_OF_PROGRAMMING_LANGUAGES,Principles of Programming Languages,1,6,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,OOP_DESIGN,Object-Oriented Programming and Design,SOFTWARE_ENGINEERING,Software Engineering,1,6,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,DBMS_SQL,Databases and SQL,DATABASE_SYSTEMS,Database Systems,9,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,DBMS_SQL,Databases and SQL,DATA_ENGINEERING,Data Engineering,3,34,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,OPERATING_SYSTEMS,Operating Systems,OPERATING_SYSTEMS,Operating Systems,6,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,OPERATING_SYSTEMS,Operating Systems,PRINCIPLES_OF_COMPUTER_SYSTEMS_II,Principles of Computer Systems - II,3,25,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,OPERATING_SYSTEMS,Operating Systems,PRINCIPLES_OF_PROGRAMMING_LANGUAGES,Principles of Programming Languages,1,6,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,COMPUTER_NETWORKS,Computer Networks,COMPUTER_NETWORKS,Computer Networks,6,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,COMPUTER_NETWORKS,Computer Networks,PRINCIPLES_OF_COMPUTER_SYSTEMS_II,Principles of Computer Systems - II,1,12,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,SYSTEM_DESIGN,System Design,SOFTWARE_ENGINEERING,Software Engineering,1,6,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,SOFTWARE_ENGINEERING,Software Engineering Practices,SOFTWARE_ENGINEERING,Software Engineering,4,36,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,WEB_FRONTEND,Web Frontend Development,,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,WEB_BACKEND,Web Backend Development,,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,CLOUD_DEVOPS,Cloud and DevOps Basics,PRINCIPLES_OF_COMPUTER_SYSTEMS_II,Principles of Computer Systems - II,1,5,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,SECURITY_BASICS,Application Security Basics,OPERATING_SYSTEMS,Operating Systems,1,6,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,SECURITY_BASICS,Application Security Basics,COMPUTER_NETWORKS,Computer Networks,1,3,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,DISCRETE_MATH,Discrete Mathematics,MATHS_FOR_COMPUTING,Maths for Computing,3,23,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,LINEAR_ALGEBRA,Linear Algebra,MATHS_FOR_BIG_DATA,Maths for Big Data,1,14,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,PROBABILITY_STATISTICS,Probability and Statistics,MATHS_FOR_BIG_DATA,Maths for Big Data,1,14,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,PROBABILITY_STATISTICS,Probability and Statistics,PATTERN_RECOGNITION_AND_MACHINE_LEARNING,Pattern Recognition and Machine Learning,2,10,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,PROBABILITY_STATISTICS,Probability and Statistics,ARTIFICIAL_INTELLIGENCE_300,Artificial Intelligence (300),1,6,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,CALCULUS_OPTIMISATION,Calculus and Optimisation,OPTIMIZATION_IN_ML,Optimization in ML,3,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,MACHINE_LEARNING,Machine Learning Fundamentals,PATTERN_RECOGNITION_AND_MACHINE_LEARNING,Pattern Recognition and Machine Learning,8,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,MACHINE_LEARNING,Machine Learning Fundamentals,OPTIMIZATION_IN_ML,Optimization in ML,1,14,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,MACHINE_LEARNING,Machine Learning Fundamentals,ARTIFICIAL_INTELLIGENCE_300,Artificial Intelligence (300),1,5,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,DEEP_LEARNING,Deep Learning,DEEP_LEARNING_400,Deep Learning (400),4,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,DEEP_LEARNING,Deep Learning,PATTERN_RECOGNITION_AND_MACHINE_LEARNING,Pattern Recognition and Machine Learning,1,4,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,DATA_ANALYSIS,Data Handling and Analysis,DATA_VISUALIZATION_400,Data Visualization (400),6,39,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,DATA_ANALYSIS,Data Handling and Analysis,DATA_ENGINEERING,Data Engineering,2,8,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,APTITUDE_REASONING,Quantitative Aptitude and Logical Reasoning,,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,TECHNICAL_COMMUNICATION,Technical Communication and Interviewing,,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,ENGG_MATHEMATICS,Engineering Mathematics,SCIENTIFIC_COMPUTATIONS,Scientific Computations,4,27,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,PROCESS_CALCULATIONS,Process Calculations,MATERIAL_AND_ENERGY_BALANCE,Material and Energy Balance,5,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,THERMODYNAMICS,Chemical Engineering Thermodynamics,CHEMICAL_ENGINEERING_THERMODYNAMICS,Chemical Engineering Thermodynamics,7,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,FLUID_MECH_OPERATIONS,Fluid Mechanics and Mechanical Operations,FLUID_MECHANICS,Fluid Mechanics,11,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,FLUID_MECH_OPERATIONS,Fluid Mechanics and Mechanical Operations,TRANSPORT_PHENOMENA,Transport Phenomena,1,10,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,HEAT_TRANSFER,Heat Transfer,HEAT_TRANSFER,Heat Transfer,13,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,HEAT_TRANSFER,Heat Transfer,TRANSPORT_PHENOMENA,Transport Phenomena,1,14,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,MASS_TRANSFER,Mass Transfer,MASS_TRANSFER_I,Mass Transfer I,5,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,MASS_TRANSFER,Mass Transfer,MASS_TRANSFER_II,Mass Transfer II,5,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,MASS_TRANSFER,Mass Transfer,TRANSPORT_PHENOMENA,Transport Phenomena,2,14,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,REACTION_ENGINEERING,Chemical Reaction Engineering,CHEMICAL_REACTION_ENGINEERING,Chemical Reaction Engineering,5,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,PROCESS_CONTROL,Instrumentation and Process Control,PROCESS_CONTROL_AND_AI_APPLICATIONS,Process Control & AI Applications,7,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,PLANT_DESIGN_ECONOMICS,Plant Design and Economics,PROCESS_PLANT_DESIGN_AND_ECONOMICS,Process Plant Design & Economics,5,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,CHEMICAL_TECHNOLOGY,Chemical Technology,,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,QUANTITATIVE_REASONING,Quantitative and Analytical Reasoning,,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,VERBAL_REASONING,Verbal Reasoning,,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,ANALYTICAL_WRITING,Analytical Writing,,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,ACADEMIC_ENGLISH,Academic English Proficiency,,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,LITERATURE_REVIEW,Reading and Reviewing Research Papers,,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,RESEARCH_METHODS,Research Design and Experimental Methods,,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,DATA_ANALYSIS_STATS,Statistics and Data Analysis for Experiments,,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,SCIENTIFIC_COMPUTING,Scientific Computing and Process Modelling,SCIENTIFIC_COMPUTATIONS,Scientific Computations,7,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,TECHNICAL_WRITING,Scientific and Technical Writing,,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,RESEARCH_PRESENTATION,Presenting and Defending Research,,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,LAB_PRACTICE_SAFETY,Laboratory Practice and Safety,MASS_TRANSFER_I,Mass Transfer I,1,0,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,LAB_PRACTICE_SAFETY,Laboratory Practice and Safety,CHEMICAL_REACTION_ENGINEERING,Chemical Reaction Engineering,1,0,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,LAB_PRACTICE_SAFETY,Laboratory Practice and Safety,HEAT_TRANSFER_LAB,Heat Transfer Lab,1,0,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,LAB_PRACTICE_SAFETY,Laboratory Practice and Safety,MASS_TRANSFER_II,Mass Transfer II,1,0,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,LAB_PRACTICE_SAFETY,Laboratory Practice and Safety,PROCESS_PLANT_DESIGN_AND_ECONOMICS,Process Plant Design & Economics,1,0,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,LAB_PRACTICE_SAFETY,Laboratory Practice and Safety,PROCESS_CONTROL_AND_AI_APPLICATIONS,Process Control & AI Applications,1,0,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,LAB_PRACTICE_SAFETY,Laboratory Practice and Safety,FLUID_MECHANICS_LAB,Fluid Mechanics Lab,1,0,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Chemical Engineering,RESEARCH_ETHICS,Research Integrity and Ethics,,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,MOBILE_DEV,Mobile App Development,,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,SOFTWARE_TESTING,Software Testing and Automation,SOFTWARE_ENGINEERING,Software Engineering,1,7,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,EMBEDDED_SYSTEMS,Embedded Systems and Low-level Programming,EMBEDDED_SYSTEMS,Embedded Systems,5,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,DATA_ENGINEERING,Data Engineering and Pipelines,DATA_ENGINEERING,Data Engineering,5,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,COMPUTER_ARCHITECTURE,Computer Organization and Architecture,PRINCIPLES_OF_COMPUTER_SYSTEMS_I,Principles of Computer Systems - I,1,10,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,DATA_ENGINEERING,Data Engineering and Pipelines,SOFTWARE_AND_DATA_ENGINEERING,Software and Data Engineering,2,28,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,COMPUTER_ARCHITECTURE,Computer Organization and Architecture,COMPUTER_ARCHITECTURE,Computer Architecture,4,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,COMPUTER_ARCHITECTURE,Computer Organization and Architecture,COMPUTER_ARCHITECTURE_700,Computer Architecture (700),5,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,SOFTWARE_TESTING,Software Testing and Automation,SOFTWARE_TESTING_AND_QUALITY_ASSURANCE,Software Testing and Quality Assurance,4,42,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,AI_ENGINEERING,Building with LLMs,NATURAL_LANGUAGE_UNDERSTANDING,Natural Language Understanding,2,36,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,AI_ENGINEERING,Building with LLMs,INFORMATION_RETRIEVAL,Information Retrieval,1,8,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,AI_SAFETY_EVALUATION,"AI Safety, Evaluation and Observability",,No compulsory course covers this skill,,,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,MLOPS,MLOps,ML_OPS,ML-Ops,7,0,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,MLOPS,MLOps,DL_OPS,DL-Ops,5,0,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,EXPERIMENTATION_STATS,Experimentation and Econometrics,MATHS_FOR_BIG_DATA,Maths for Big Data,1,14,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,EXPERIMENTATION_STATS,Experimentation and Econometrics,FUNDAMENTALS_OF_MACHINE_LEARNING,Fundamentals of Machine Learning,1,16,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,DEV_TOOLS,Developer Tooling and AI-assisted Coding,SOFTWARE_ENGINEERING,Software Engineering,1,7,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+Software,DEV_TOOLS,Developer Tooling and AI-assisted Coding,VIRTUALIZATION_AND_CLOUD_COMPUTING,Virtualization and Cloud Computing,1,5,Derived from the Module-Skill tab (Claude mapping; verify),draft_unverified,,
+First Year (Common),BASIC_ELECTRICAL_ENGINEERING,Basic Electrical and Electronics Engineering,EEL1010,Introduction to Electrical Engineering,3,,Derived from the Module-Skill tab (Claude mapping; verify),,,
+First Year (Common),BIOENGINEERING_BASICS,Foundations of Bioengineering,BBL1020,Introduction to Bioengineering,6,,Derived from the Module-Skill tab (Claude mapping; verify),,,
+First Year (Common),CALCULUS_OPTIMISATION,Calculus and Optimisation,MAL1010,Mathematics I,9,,Derived from the Module-Skill tab (Claude mapping; verify),,,
+First Year (Common),CALCULUS_OPTIMISATION,Calculus and Optimisation,MAL1020,Mathematics II,1,,Derived from the Module-Skill tab (Claude mapping; verify),,,
+First Year (Common),CHEMICAL_TECHNOLOGY,Chemical Technology,CYL1010,Chemistry,1,,Derived from the Module-Skill tab (Claude mapping; verify),,,
+First Year (Common),DSA,Data Structures and Algorithms,CSL1010,Introduction to Computer Science,1,,Derived from the Module-Skill tab (Claude mapping; verify),,,
+First Year (Common),ENGG_MATHEMATICS,Engineering Mathematics,MAL1010,Mathematics I,9,,Derived from the Module-Skill tab (Claude mapping; verify),,,
+First Year (Common),ENGG_MATHEMATICS,Engineering Mathematics,MAL1020,Mathematics II,7,,Derived from the Module-Skill tab (Claude mapping; verify),,,
+First Year (Common),ENGG_MATHEMATICS,Engineering Mathematics,PHL1010,Physics,1,,Derived from the Module-Skill tab (Claude mapping; verify),,,
+First Year (Common),ENGINEERING_MECHANICS,Engineering Mechanics,MEL1010,Engineering Mechanics,8,,Derived from the Module-Skill tab (Claude mapping; verify),,,
+First Year (Common),GENERAL_CHEMISTRY,General and Engineering Chemistry,CYL1010,Chemistry,8,,Derived from the Module-Skill tab (Claude mapping; verify),,,
+First Year (Common),LINEAR_ALGEBRA,Linear Algebra,MAL1010,Mathematics I,1,,Derived from the Module-Skill tab (Claude mapping; verify),,,
+First Year (Common),LINEAR_ALGEBRA,Linear Algebra,MAL1020,Mathematics II,7,,Derived from the Module-Skill tab (Claude mapping; verify),,,
+First Year (Common),PHYSICS_EM_OPTICS,Electromagnetism and Optics,PHL1010,Physics,6,,Derived from the Module-Skill tab (Claude mapping; verify),,,
+First Year (Common),PROGRAMMING,Programming Fundamentals,CSL1010,Introduction to Computer Science,7,,Derived from the Module-Skill tab (Claude mapping; verify),,,
+First Year (Common),THERMODYNAMICS,Chemical Engineering Thermodynamics,BBL1020,Introduction to Bioengineering,1,,Derived from the Module-Skill tab (Claude mapping; verify),,,
+UPSC,ESSAY,Essay Writing,HUM_B1_03,Creative Writing,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,MAINS,draft_unverified
+UPSC,ANSWER_WRITING,Answer Writing,HUM_B1_03,Creative Writing,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,MAINS,draft_unverified
+UPSC,SOCIETY,Indian Society,HUM_B2_01,Introduction to Sociology,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,direct,MAINS,draft_unverified
+UPSC,OPT_SOCIOLOGY,Optional: Sociology,HUM_B2_01,Introduction to Sociology,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,direct,MAINS,draft_unverified
+UPSC,SOCIETY,Indian Society,HUM_B2_02,Digital Society,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,MAINS,draft_unverified
+UPSC,SCI_TECH,Science and Technology,HUM_B2_02,Digital Society,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,BOTH,draft_unverified
+UPSC,SOCIETY,Indian Society,HUM_B2_03,Urban Sociology,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,OPT_SOCIOLOGY,Optional: Sociology,HUM_B2_03,Urban Sociology,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,SOCIETY,Indian Society,HUM_B2_04,Indian Society: A Sociological Introduction,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,direct,MAINS,draft_unverified
+UPSC,OPT_SOCIOLOGY,Optional: Sociology,HUM_B2_04,Indian Society: A Sociological Introduction,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,direct,MAINS,draft_unverified
+UPSC,SOCIETY,Indian Society,HUM_B2_05,Youth Studies,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,SOCIETY,Indian Society,HUM_B2_06,Law and Society,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,POLITY,Indian Polity and Constitution,HUM_B2_06,Law and Society,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,BOTH,draft_unverified
+UPSC,OPT_SOCIOLOGY,Optional: Sociology,HUM_B2_06,Law and Society,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,MAINS,draft_unverified
+UPSC,OPT_SOCIOLOGY,Optional: Sociology,HUM_B2_07,Sociology of Work and Industry,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,SOCIETY,Indian Society,HUM_B2_07,Sociology of Work and Industry,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,MAINS,draft_unverified
+UPSC,ENVIRONMENT,Environment and Ecology,HUM_B2_08,Development and Environment,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,BOTH,draft_unverified
+UPSC,SOCIETY,Indian Society,HUM_B2_08,Development and Environment,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,MAINS,draft_unverified
+UPSC,ECONOMY,Indian Economy,HUM_B2_08,Development and Environment,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,BOTH,draft_unverified
+UPSC,SOCIETY,Indian Society,HUM_B2_09,Social Stratification,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,OPT_SOCIOLOGY,Optional: Sociology,HUM_B2_09,Social Stratification,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,direct,MAINS,draft_unverified
+UPSC,OPT_ECONOMICS,Optional: Economics,HUM_B3_01,Microeconomics-1,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,direct,MAINS,draft_unverified
+UPSC,ECONOMY,Indian Economy,HUM_B3_01,Microeconomics-1,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,BOTH,draft_unverified
+UPSC,OPT_ECONOMICS,Optional: Economics,HUM_B3_02,Microeconomics-2,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,direct,MAINS,draft_unverified
+UPSC,ECONOMY,Indian Economy,HUM_B3_02,Microeconomics-2,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,BOTH,draft_unverified
+UPSC,OPT_ECONOMICS,Optional: Economics,HUM_B3_03,Health Economics,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,GOVERNANCE,Governance and Social Justice,HUM_B3_03,Health Economics,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,MAINS,draft_unverified
+UPSC,ECONOMY,Indian Economy,HUM_B3_03,Health Economics,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,BOTH,draft_unverified
+UPSC,OPT_ECONOMICS,Optional: Economics,HUM_B3_04,Industrial Organization,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,ECONOMY,Indian Economy,HUM_B3_04,Industrial Organization,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,BOTH,draft_unverified
+UPSC,GOVERNANCE,Governance and Social Justice,HUM_B3_05,Health and Development,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,SOCIETY,Indian Society,HUM_B3_05,Health and Development,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,MAINS,draft_unverified
+UPSC,ECONOMY,Indian Economy,HUM_B3_06,Indian Economic Development and Policy,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,direct,BOTH,draft_unverified
+UPSC,OPT_ECONOMICS,Optional: Economics,HUM_B3_06,Indian Economic Development and Policy,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,direct,MAINS,draft_unverified
+UPSC,ECONOMY,Indian Economy,HUM_B3_07,Political and Institutional Economics of Development,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,BOTH,draft_unverified
+UPSC,GOVERNANCE,Governance and Social Justice,HUM_B3_07,Political and Institutional Economics of Development,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,OPT_ECONOMICS,Optional: Economics,HUM_B3_07,Political and Institutional Economics of Development,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,ECONOMY,Indian Economy,HUM_B3_08,Foundations and Finance,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,BOTH,draft_unverified
+UPSC,OPT_ECONOMICS,Optional: Economics,HUM_B3_09,Individual and Strategic Decision Making,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,OPT_ECONOMICS,Optional: Economics,HUM_B3_10,Social and Economic Networks,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,MAINS,draft_unverified
+UPSC,OPT_ECONOMICS,Optional: Economics,HUM_B3_11,Behavioral Economics and Decision Theory,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,MAINS,draft_unverified
+UPSC,OPT_PHILOSOPHY,Optional: Philosophy,HUM_B4_01,Introduction to Philosophy,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,direct,MAINS,draft_unverified
+UPSC,ETHICS,"Ethics, Integrity and Aptitude",HUM_B4_01,Introduction to Philosophy,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,CSAT,CSAT (Aptitude),HUM_B4_02,Fundamentals of Logic,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,PRELIMS,draft_unverified
+UPSC,OPT_PHILOSOPHY,Optional: Philosophy,HUM_B4_02,Fundamentals of Logic,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,CSAT,CSAT (Aptitude),HUM_B4_03,Critical Thinking,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,PRELIMS,draft_unverified
+UPSC,ANSWER_WRITING,Answer Writing,HUM_B4_03,Critical Thinking,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,MAINS,draft_unverified
+UPSC,ESSAY,Essay Writing,HUM_B4_03,Critical Thinking,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,MAINS,draft_unverified
+UPSC,OPT_PHILOSOPHY,Optional: Philosophy,HUM_B4_05,Philosophical Problems,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,direct,MAINS,draft_unverified
+UPSC,ETHICS,"Ethics, Integrity and Aptitude",HUM_B4_05,Philosophical Problems,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,MAINS,draft_unverified
+UPSC,OPT_PHILOSOPHY,Optional: Philosophy,HUM_B4_06,Introduction to Indian Philosophy,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,direct,MAINS,draft_unverified
+UPSC,ETHICS,"Ethics, Integrity and Aptitude",HUM_B4_06,Introduction to Indian Philosophy,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,ETHICS,"Ethics, Integrity and Aptitude",HUM_B4_07,Theories of Justice,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,POLITY,Indian Polity and Constitution,HUM_B4_07,Theories of Justice,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,BOTH,draft_unverified
+UPSC,OPT_PHILOSOPHY,Optional: Philosophy,HUM_B4_07,Theories of Justice,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,ETHICS,"Ethics, Integrity and Aptitude",HUM_B4_08,Gandhian Thought,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,HISTORY,History,HUM_B4_08,Gandhian Thought,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,BOTH,draft_unverified
+UPSC,SCI_TECH,Science and Technology,HUM_B4_09,Role of Technology in Development,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,BOTH,draft_unverified
+UPSC,GOVERNANCE,Governance and Social Justice,HUM_B4_09,Role of Technology in Development,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,MAINS,draft_unverified
+UPSC,INTERNAL_SECURITY,Internal Security and Disaster Management,HUM_B4_10,"Disasters, Risk Reduction and Management",,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,MAINS,draft_unverified
+UPSC,ENVIRONMENT,Environment and Ecology,HUM_B4_10,"Disasters, Risk Reduction and Management",,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,BOTH,draft_unverified
+UPSC,ENVIRONMENT,Environment and Ecology,HUM_B4_11,Political and Cultural Ecology,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,partial,BOTH,draft_unverified
+UPSC,SOCIETY,Indian Society,HUM_B4_11,Political and Cultural Ecology,,,Mapped by Claude from course titles only (no syllabus seen); verify against the course syllabus,supporting,MAINS,draft_unverified

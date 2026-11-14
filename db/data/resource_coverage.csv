@@ -1,0 +1,9 @@
+course_id,papers,quizzes,minors,majors,type_unclassified,problems_detected_by_ocr,sub_parts_merged_into_problems,problems_linked_to_modules,integrity checks (live)
+BBL1020,1,0,1,0,0,69,0,69,module ids in Question Bank missing from Modules tab: 0
+CSL1010,8,3,1,1,3,95,0,94,skill ids in Question Bank missing from Skills tab: 0
+CYL1010,6,2,1,1,2,129,0,127,problems linked / total: 676 / 687
+EEL1010,3,0,1,0,2,19,0,16,"UPSC rows: goals 4, goal-skill 46, skills 21, courses 40, skill-course 63, ext resources 121"
+MAL1010,11,0,0,0,11,90,0,90,UPSC goal-skill skill ids missing from Skills: 0; goal ids missing from Goals: 0
+MAL1020,9,0,0,0,9,78,0,76,UPSC skill-course: skill ids missing 0; course ids missing 0
+MEL1010,11,2,0,1,8,138,0,135,UPSC ext resources: skill ids missing 0; distinct resource ids 79
+PHL1010,11,0,0,1,10,69,0,69,UPSC ext resources title+url char checksum: 18795

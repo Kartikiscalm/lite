@@ -1,0 +1,303 @@
+programme,module_id,skill_id,source,status
+Software,DATA_STRUCTURES_AND_ALGORITHMS_M01,DSA,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_STRUCTURES_AND_ALGORITHMS_M02,DSA,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_STRUCTURES_AND_ALGORITHMS_M03,DSA,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_STRUCTURES_AND_ALGORITHMS_M04,DSA,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_STRUCTURES_AND_ALGORITHMS_M05,DSA,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_STRUCTURES_AND_ALGORITHMS_M06,DSA,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_STRUCTURES_AND_ALGORITHMS_M07,DSA,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_STRUCTURES_AND_ALGORITHMS_M08,DSA,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_STRUCTURES_AND_ALGORITHMS_M09,DSA,Claude mapping from module topics; verify,draft_unverified
+Software,DESIGN_AND_ANALYSIS_OF_ALGORITHMS_M01,DSA,Claude mapping from module topics; verify,draft_unverified
+Software,DESIGN_AND_ANALYSIS_OF_ALGORITHMS_M02,DSA,Claude mapping from module topics; verify,draft_unverified
+Software,DESIGN_AND_ANALYSIS_OF_ALGORITHMS_M03,DSA,Claude mapping from module topics; verify,draft_unverified
+Software,DESIGN_AND_ANALYSIS_OF_ALGORITHMS_M04,DSA,Claude mapping from module topics; verify,draft_unverified
+Software,DESIGN_AND_ANALYSIS_OF_ALGORITHMS_M05,DSA,Claude mapping from module topics; verify,draft_unverified
+Software,DESIGN_AND_ANALYSIS_OF_ALGORITHMS_M07,DSA,Claude mapping from module topics; verify,draft_unverified
+Software,DESIGN_AND_ANALYSIS_OF_ALGORITHMS_M08,DSA,Claude mapping from module topics; verify,draft_unverified
+Software,MATHS_FOR_COMPUTING_M01,DISCRETE_MATH,Claude mapping from module topics; verify,draft_unverified
+Software,MATHS_FOR_COMPUTING_M02,DISCRETE_MATH,Claude mapping from module topics; verify,draft_unverified
+Software,MATHS_FOR_COMPUTING_M03,DISCRETE_MATH,Claude mapping from module topics; verify,draft_unverified
+Software,PATTERN_RECOGNITION_AND_MACHINE_LEARNING_M01,MACHINE_LEARNING,Claude mapping from module topics; verify,draft_unverified
+Software,PATTERN_RECOGNITION_AND_MACHINE_LEARNING_M02,MACHINE_LEARNING,Claude mapping from module topics; verify,draft_unverified
+Software,PATTERN_RECOGNITION_AND_MACHINE_LEARNING_M03,MACHINE_LEARNING,Claude mapping from module topics; verify,draft_unverified
+Software,PATTERN_RECOGNITION_AND_MACHINE_LEARNING_M03,PROBABILITY_STATISTICS,Claude mapping from module topics; verify,draft_unverified
+Software,PATTERN_RECOGNITION_AND_MACHINE_LEARNING_M04,MACHINE_LEARNING,Claude mapping from module topics; verify,draft_unverified
+Software,PATTERN_RECOGNITION_AND_MACHINE_LEARNING_M04,PROBABILITY_STATISTICS,Claude mapping from module topics; verify,draft_unverified
+Software,PATTERN_RECOGNITION_AND_MACHINE_LEARNING_M05,MACHINE_LEARNING,Claude mapping from module topics; verify,draft_unverified
+Software,PATTERN_RECOGNITION_AND_MACHINE_LEARNING_M06,MACHINE_LEARNING,Claude mapping from module topics; verify,draft_unverified
+Software,PATTERN_RECOGNITION_AND_MACHINE_LEARNING_M06,DEEP_LEARNING,Claude mapping from module topics; verify,draft_unverified
+Software,PATTERN_RECOGNITION_AND_MACHINE_LEARNING_M07,MACHINE_LEARNING,Claude mapping from module topics; verify,draft_unverified
+Software,PATTERN_RECOGNITION_AND_MACHINE_LEARNING_M08,MACHINE_LEARNING,Claude mapping from module topics; verify,draft_unverified
+Software,PRINCIPLES_OF_COMPUTER_SYSTEMS_II_M01,OPERATING_SYSTEMS,Claude mapping from module topics; verify,draft_unverified
+Software,PRINCIPLES_OF_COMPUTER_SYSTEMS_II_M02,OPERATING_SYSTEMS,Claude mapping from module topics; verify,draft_unverified
+Software,PRINCIPLES_OF_COMPUTER_SYSTEMS_II_M03,OPERATING_SYSTEMS,Claude mapping from module topics; verify,draft_unverified
+Software,PRINCIPLES_OF_COMPUTER_SYSTEMS_II_M04,COMPUTER_NETWORKS,Claude mapping from module topics; verify,draft_unverified
+Software,PRINCIPLES_OF_COMPUTER_SYSTEMS_II_M05,CLOUD_DEVOPS,Claude mapping from module topics; verify,draft_unverified
+Software,PRINCIPLES_OF_PROGRAMMING_LANGUAGES_M01,PROGRAMMING,Claude mapping from module topics; verify,draft_unverified
+Software,PRINCIPLES_OF_PROGRAMMING_LANGUAGES_M03,PROGRAMMING,Claude mapping from module topics; verify,draft_unverified
+Software,PRINCIPLES_OF_PROGRAMMING_LANGUAGES_M04,OOP_DESIGN,Claude mapping from module topics; verify,draft_unverified
+Software,PRINCIPLES_OF_PROGRAMMING_LANGUAGES_M05,PROGRAMMING,Claude mapping from module topics; verify,draft_unverified
+Software,PRINCIPLES_OF_PROGRAMMING_LANGUAGES_M06,PROGRAMMING,Claude mapping from module topics; verify,draft_unverified
+Software,PRINCIPLES_OF_PROGRAMMING_LANGUAGES_M07,PROGRAMMING,Claude mapping from module topics; verify,draft_unverified
+Software,PRINCIPLES_OF_PROGRAMMING_LANGUAGES_M07,OPERATING_SYSTEMS,Claude mapping from module topics; verify,draft_unverified
+Software,PRINCIPLES_OF_PROGRAMMING_LANGUAGES_M08,PROGRAMMING,Claude mapping from module topics; verify,draft_unverified
+Software,SOFTWARE_ENGINEERING_M01,SOFTWARE_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Software,SOFTWARE_ENGINEERING_M02,OOP_DESIGN,Claude mapping from module topics; verify,draft_unverified
+Software,SOFTWARE_ENGINEERING_M02,SYSTEM_DESIGN,Claude mapping from module topics; verify,draft_unverified
+Software,SOFTWARE_ENGINEERING_M03,SOFTWARE_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Software,SOFTWARE_ENGINEERING_M04,SOFTWARE_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Software,SOFTWARE_ENGINEERING_M05,SOFTWARE_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Software,ARTIFICIAL_INTELLIGENCE_300_M08,PROBABILITY_STATISTICS,Claude mapping from module topics; verify,draft_unverified
+Software,ARTIFICIAL_INTELLIGENCE_300_M09,MACHINE_LEARNING,Claude mapping from module topics; verify,draft_unverified
+Software,COMPUTER_NETWORKS_M01,COMPUTER_NETWORKS,Claude mapping from module topics; verify,draft_unverified
+Software,COMPUTER_NETWORKS_M02,COMPUTER_NETWORKS,Claude mapping from module topics; verify,draft_unverified
+Software,COMPUTER_NETWORKS_M03,COMPUTER_NETWORKS,Claude mapping from module topics; verify,draft_unverified
+Software,COMPUTER_NETWORKS_M04,COMPUTER_NETWORKS,Claude mapping from module topics; verify,draft_unverified
+Software,COMPUTER_NETWORKS_M05,COMPUTER_NETWORKS,Claude mapping from module topics; verify,draft_unverified
+Software,COMPUTER_NETWORKS_M06,COMPUTER_NETWORKS,Claude mapping from module topics; verify,draft_unverified
+Software,COMPUTER_NETWORKS_M06,SECURITY_BASICS,Claude mapping from module topics; verify,draft_unverified
+Software,DATABASE_SYSTEMS_M01,DBMS_SQL,Claude mapping from module topics; verify,draft_unverified
+Software,DATABASE_SYSTEMS_M02,DBMS_SQL,Claude mapping from module topics; verify,draft_unverified
+Software,DATABASE_SYSTEMS_M03,DBMS_SQL,Claude mapping from module topics; verify,draft_unverified
+Software,DATABASE_SYSTEMS_M04,DBMS_SQL,Claude mapping from module topics; verify,draft_unverified
+Software,DATABASE_SYSTEMS_M05,DBMS_SQL,Claude mapping from module topics; verify,draft_unverified
+Software,DATABASE_SYSTEMS_M06,DBMS_SQL,Claude mapping from module topics; verify,draft_unverified
+Software,DATABASE_SYSTEMS_M07,DBMS_SQL,Claude mapping from module topics; verify,draft_unverified
+Software,DATABASE_SYSTEMS_M08,DBMS_SQL,Claude mapping from module topics; verify,draft_unverified
+Software,DATABASE_SYSTEMS_M09,DBMS_SQL,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_ENGINEERING_M01,DATA_ANALYSIS,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_ENGINEERING_M02,DBMS_SQL,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_ENGINEERING_M03,DBMS_SQL,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_ENGINEERING_M04,DBMS_SQL,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_ENGINEERING_M05,DATA_ANALYSIS,Claude mapping from module topics; verify,draft_unverified
+Software,MATHS_FOR_BIG_DATA_M01,PROBABILITY_STATISTICS,Claude mapping from module topics; verify,draft_unverified
+Software,MATHS_FOR_BIG_DATA_M02,LINEAR_ALGEBRA,Claude mapping from module topics; verify,draft_unverified
+Software,OPERATING_SYSTEMS_M01,OPERATING_SYSTEMS,Claude mapping from module topics; verify,draft_unverified
+Software,OPERATING_SYSTEMS_M02,OPERATING_SYSTEMS,Claude mapping from module topics; verify,draft_unverified
+Software,OPERATING_SYSTEMS_M03,OPERATING_SYSTEMS,Claude mapping from module topics; verify,draft_unverified
+Software,OPERATING_SYSTEMS_M04,OPERATING_SYSTEMS,Claude mapping from module topics; verify,draft_unverified
+Software,OPERATING_SYSTEMS_M05,OPERATING_SYSTEMS,Claude mapping from module topics; verify,draft_unverified
+Software,OPERATING_SYSTEMS_M06,OPERATING_SYSTEMS,Claude mapping from module topics; verify,draft_unverified
+Software,OPERATING_SYSTEMS_M06,SECURITY_BASICS,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_VISUALIZATION_400_M01,DATA_ANALYSIS,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_VISUALIZATION_400_M03,DATA_ANALYSIS,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_VISUALIZATION_400_M04,DATA_ANALYSIS,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_VISUALIZATION_400_M05,DATA_ANALYSIS,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_VISUALIZATION_400_M06,DATA_ANALYSIS,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_VISUALIZATION_400_M07,DATA_ANALYSIS,Claude mapping from module topics; verify,draft_unverified
+Software,DEEP_LEARNING_400_M01,DEEP_LEARNING,Claude mapping from module topics; verify,draft_unverified
+Software,DEEP_LEARNING_400_M02,DEEP_LEARNING,Claude mapping from module topics; verify,draft_unverified
+Software,DEEP_LEARNING_400_M03,DEEP_LEARNING,Claude mapping from module topics; verify,draft_unverified
+Software,DEEP_LEARNING_400_M04,DEEP_LEARNING,Claude mapping from module topics; verify,draft_unverified
+Software,OPTIMIZATION_IN_ML_M01,CALCULUS_OPTIMISATION,Claude mapping from module topics; verify,draft_unverified
+Software,OPTIMIZATION_IN_ML_M02,CALCULUS_OPTIMISATION,Claude mapping from module topics; verify,draft_unverified
+Software,OPTIMIZATION_IN_ML_M02,MACHINE_LEARNING,Claude mapping from module topics; verify,draft_unverified
+Software,OPTIMIZATION_IN_ML_M03,CALCULUS_OPTIMISATION,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,FLUID_MECHANICS_M01,FLUID_MECH_OPERATIONS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,FLUID_MECHANICS_M02,FLUID_MECH_OPERATIONS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,FLUID_MECHANICS_M03,FLUID_MECH_OPERATIONS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,FLUID_MECHANICS_M04,FLUID_MECH_OPERATIONS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,FLUID_MECHANICS_M05,FLUID_MECH_OPERATIONS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,FLUID_MECHANICS_M06,FLUID_MECH_OPERATIONS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,FLUID_MECHANICS_M07,FLUID_MECH_OPERATIONS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,FLUID_MECHANICS_M08,FLUID_MECH_OPERATIONS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,FLUID_MECHANICS_M09,FLUID_MECH_OPERATIONS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,FLUID_MECHANICS_M10,FLUID_MECH_OPERATIONS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,FLUID_MECHANICS_M11,FLUID_MECH_OPERATIONS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,MATERIAL_AND_ENERGY_BALANCE_M01,PROCESS_CALCULATIONS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,MATERIAL_AND_ENERGY_BALANCE_M02,PROCESS_CALCULATIONS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,MATERIAL_AND_ENERGY_BALANCE_M03,PROCESS_CALCULATIONS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,MATERIAL_AND_ENERGY_BALANCE_M04,PROCESS_CALCULATIONS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,MATERIAL_AND_ENERGY_BALANCE_M05,PROCESS_CALCULATIONS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,MASS_TRANSFER_I_M01,MASS_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,MASS_TRANSFER_I_M02,MASS_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,MASS_TRANSFER_I_M03,MASS_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,MASS_TRANSFER_I_M04,MASS_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,MASS_TRANSFER_I_M05,MASS_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,MASS_TRANSFER_I_M06,LAB_PRACTICE_SAFETY,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,HEAT_TRANSFER_M01,HEAT_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,HEAT_TRANSFER_M02,HEAT_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,HEAT_TRANSFER_M03,HEAT_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,HEAT_TRANSFER_M04,HEAT_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,HEAT_TRANSFER_M05,HEAT_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,HEAT_TRANSFER_M06,HEAT_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,HEAT_TRANSFER_M07,HEAT_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,HEAT_TRANSFER_M08,HEAT_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,HEAT_TRANSFER_M09,HEAT_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,HEAT_TRANSFER_M10,HEAT_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,HEAT_TRANSFER_M11,HEAT_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,HEAT_TRANSFER_M12,HEAT_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,HEAT_TRANSFER_M13,HEAT_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,CHEMICAL_REACTION_ENGINEERING_M01,REACTION_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,CHEMICAL_REACTION_ENGINEERING_M02,REACTION_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,CHEMICAL_REACTION_ENGINEERING_M03,REACTION_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,CHEMICAL_REACTION_ENGINEERING_M04,REACTION_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,CHEMICAL_REACTION_ENGINEERING_M05,REACTION_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,CHEMICAL_REACTION_ENGINEERING_M06,LAB_PRACTICE_SAFETY,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,SCIENTIFIC_COMPUTATIONS_M01,SCIENTIFIC_COMPUTING,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,SCIENTIFIC_COMPUTATIONS_M02,SCIENTIFIC_COMPUTING,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,SCIENTIFIC_COMPUTATIONS_M02,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,SCIENTIFIC_COMPUTATIONS_M03,SCIENTIFIC_COMPUTING,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,SCIENTIFIC_COMPUTATIONS_M03,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,SCIENTIFIC_COMPUTATIONS_M04,SCIENTIFIC_COMPUTING,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,SCIENTIFIC_COMPUTATIONS_M05,SCIENTIFIC_COMPUTING,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,SCIENTIFIC_COMPUTATIONS_M05,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,SCIENTIFIC_COMPUTATIONS_M06,SCIENTIFIC_COMPUTING,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,SCIENTIFIC_COMPUTATIONS_M06,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,SCIENTIFIC_COMPUTATIONS_M07,SCIENTIFIC_COMPUTING,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,CHEMICAL_ENGINEERING_THERMODYNAMICS_M01,THERMODYNAMICS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,CHEMICAL_ENGINEERING_THERMODYNAMICS_M02,THERMODYNAMICS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,CHEMICAL_ENGINEERING_THERMODYNAMICS_M03,THERMODYNAMICS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,CHEMICAL_ENGINEERING_THERMODYNAMICS_M04,THERMODYNAMICS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,CHEMICAL_ENGINEERING_THERMODYNAMICS_M05,THERMODYNAMICS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,CHEMICAL_ENGINEERING_THERMODYNAMICS_M06,THERMODYNAMICS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,CHEMICAL_ENGINEERING_THERMODYNAMICS_M07,THERMODYNAMICS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,HEAT_TRANSFER_LAB_M01,LAB_PRACTICE_SAFETY,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,MASS_TRANSFER_II_M01,MASS_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,MASS_TRANSFER_II_M02,MASS_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,MASS_TRANSFER_II_M03,MASS_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,MASS_TRANSFER_II_M04,MASS_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,MASS_TRANSFER_II_M05,MASS_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,MASS_TRANSFER_II_M06,LAB_PRACTICE_SAFETY,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,PROCESS_PLANT_DESIGN_AND_ECONOMICS_M01,PLANT_DESIGN_ECONOMICS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,PROCESS_PLANT_DESIGN_AND_ECONOMICS_M02,PLANT_DESIGN_ECONOMICS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,PROCESS_PLANT_DESIGN_AND_ECONOMICS_M03,PLANT_DESIGN_ECONOMICS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,PROCESS_PLANT_DESIGN_AND_ECONOMICS_M04,PLANT_DESIGN_ECONOMICS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,PROCESS_PLANT_DESIGN_AND_ECONOMICS_M05,PLANT_DESIGN_ECONOMICS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,PROCESS_PLANT_DESIGN_AND_ECONOMICS_M06,LAB_PRACTICE_SAFETY,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,TRANSPORT_PHENOMENA_M02,FLUID_MECH_OPERATIONS,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,TRANSPORT_PHENOMENA_M03,HEAT_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,TRANSPORT_PHENOMENA_M04,MASS_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,TRANSPORT_PHENOMENA_M05,MASS_TRANSFER,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,PROCESS_CONTROL_AND_AI_APPLICATIONS_M01,PROCESS_CONTROL,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,PROCESS_CONTROL_AND_AI_APPLICATIONS_M02,PROCESS_CONTROL,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,PROCESS_CONTROL_AND_AI_APPLICATIONS_M03,PROCESS_CONTROL,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,PROCESS_CONTROL_AND_AI_APPLICATIONS_M04,PROCESS_CONTROL,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,PROCESS_CONTROL_AND_AI_APPLICATIONS_M05,PROCESS_CONTROL,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,PROCESS_CONTROL_AND_AI_APPLICATIONS_M06,PROCESS_CONTROL,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,PROCESS_CONTROL_AND_AI_APPLICATIONS_M07,PROCESS_CONTROL,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,PROCESS_CONTROL_AND_AI_APPLICATIONS_M07,LAB_PRACTICE_SAFETY,Claude mapping from module topics; verify,draft_unverified
+Chemical Engineering,FLUID_MECHANICS_LAB_M01,LAB_PRACTICE_SAFETY,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_ENGINEERING_M01,DATA_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_ENGINEERING_M02,DATA_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_ENGINEERING_M03,DATA_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_ENGINEERING_M04,DATA_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Software,DATA_ENGINEERING_M05,DATA_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Software,SOFTWARE_AND_DATA_ENGINEERING_M04,DATA_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Software,SOFTWARE_AND_DATA_ENGINEERING_M05,DATA_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Software,COMPUTER_ARCHITECTURE_M01,COMPUTER_ARCHITECTURE,Claude mapping from module topics; verify,draft_unverified
+Software,COMPUTER_ARCHITECTURE_M02,COMPUTER_ARCHITECTURE,Claude mapping from module topics; verify,draft_unverified
+Software,COMPUTER_ARCHITECTURE_M03,COMPUTER_ARCHITECTURE,Claude mapping from module topics; verify,draft_unverified
+Software,COMPUTER_ARCHITECTURE_M04,COMPUTER_ARCHITECTURE,Claude mapping from module topics; verify,draft_unverified
+Software,PRINCIPLES_OF_COMPUTER_SYSTEMS_I_M03,COMPUTER_ARCHITECTURE,Claude mapping from module topics; verify,draft_unverified
+Software,COMPUTER_ARCHITECTURE_700_M01,COMPUTER_ARCHITECTURE,Claude mapping from module topics; verify,draft_unverified
+Software,COMPUTER_ARCHITECTURE_700_M02,COMPUTER_ARCHITECTURE,Claude mapping from module topics; verify,draft_unverified
+Software,COMPUTER_ARCHITECTURE_700_M03,COMPUTER_ARCHITECTURE,Claude mapping from module topics; verify,draft_unverified
+Software,COMPUTER_ARCHITECTURE_700_M04,COMPUTER_ARCHITECTURE,Claude mapping from module topics; verify,draft_unverified
+Software,COMPUTER_ARCHITECTURE_700_M05,COMPUTER_ARCHITECTURE,Claude mapping from module topics; verify,draft_unverified
+Software,EMBEDDED_SYSTEMS_M01,EMBEDDED_SYSTEMS,Claude mapping from module topics; verify,draft_unverified
+Software,EMBEDDED_SYSTEMS_M02,EMBEDDED_SYSTEMS,Claude mapping from module topics; verify,draft_unverified
+Software,EMBEDDED_SYSTEMS_M03,EMBEDDED_SYSTEMS,Claude mapping from module topics; verify,draft_unverified
+Software,EMBEDDED_SYSTEMS_M04,EMBEDDED_SYSTEMS,Claude mapping from module topics; verify,draft_unverified
+Software,EMBEDDED_SYSTEMS_M05,EMBEDDED_SYSTEMS,Claude mapping from module topics; verify,draft_unverified
+Software,SOFTWARE_ENGINEERING_M04,SOFTWARE_TESTING,Claude mapping from module topics; verify,draft_unverified
+Software,SOFTWARE_TESTING_AND_QUALITY_ASSURANCE_M01,SOFTWARE_TESTING,Claude mapping from module topics; verify,draft_unverified
+Software,SOFTWARE_TESTING_AND_QUALITY_ASSURANCE_M02,SOFTWARE_TESTING,Claude mapping from module topics; verify,draft_unverified
+Software,SOFTWARE_TESTING_AND_QUALITY_ASSURANCE_M03,SOFTWARE_TESTING,Claude mapping from module topics; verify,draft_unverified
+Software,SOFTWARE_TESTING_AND_QUALITY_ASSURANCE_M04,SOFTWARE_TESTING,Claude mapping from module topics; verify,draft_unverified
+Software,ML_OPS_M01,MLOPS,Claude mapping from module topics; verify,draft_unverified
+Software,ML_OPS_M02,MLOPS,Claude mapping from module topics; verify,draft_unverified
+Software,ML_OPS_M03,MLOPS,Claude mapping from module topics; verify,draft_unverified
+Software,ML_OPS_M04,MLOPS,Claude mapping from module topics; verify,draft_unverified
+Software,ML_OPS_M05,MLOPS,Claude mapping from module topics; verify,draft_unverified
+Software,ML_OPS_M06,MLOPS,Claude mapping from module topics; verify,draft_unverified
+Software,ML_OPS_M07,MLOPS,Claude mapping from module topics; verify,draft_unverified
+Software,DL_OPS_M01,MLOPS,Claude mapping from module topics; verify,draft_unverified
+Software,DL_OPS_M02,MLOPS,Claude mapping from module topics; verify,draft_unverified
+Software,DL_OPS_M03,MLOPS,Claude mapping from module topics; verify,draft_unverified
+Software,DL_OPS_M04,MLOPS,Claude mapping from module topics; verify,draft_unverified
+Software,DL_OPS_M05,MLOPS,Claude mapping from module topics; verify,draft_unverified
+Software,NATURAL_LANGUAGE_UNDERSTANDING_M01,AI_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Software,NATURAL_LANGUAGE_UNDERSTANDING_M02,AI_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Software,INFORMATION_RETRIEVAL_M03,AI_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+Software,MATHS_FOR_BIG_DATA_M01,EXPERIMENTATION_STATS,Claude mapping from module topics; verify,draft_unverified
+Software,FUNDAMENTALS_OF_MACHINE_LEARNING_M04,EXPERIMENTATION_STATS,Claude mapping from module topics; verify,draft_unverified
+Software,SOFTWARE_ENGINEERING_M05,DEV_TOOLS,Claude mapping from module topics; verify,draft_unverified
+Software,VIRTUALIZATION_AND_CLOUD_COMPUTING_M06,DEV_TOOLS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),CSL1010_M01,PROGRAMMING,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),CSL1010_M02,PROGRAMMING,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),CSL1010_M03,PROGRAMMING,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),CSL1010_M04,PROGRAMMING,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),CSL1010_M05,PROGRAMMING,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),CSL1010_M06,PROGRAMMING,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),CSL1010_M07,PROGRAMMING,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),CSL1010_M07,DSA,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M01,CALCULUS_OPTIMISATION,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M01,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M02,CALCULUS_OPTIMISATION,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M02,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M03,CALCULUS_OPTIMISATION,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M03,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M04,CALCULUS_OPTIMISATION,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M04,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M05,CALCULUS_OPTIMISATION,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M05,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M06,CALCULUS_OPTIMISATION,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M06,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M07,CALCULUS_OPTIMISATION,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M07,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M08,CALCULUS_OPTIMISATION,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M08,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M08,LINEAR_ALGEBRA,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M09,CALCULUS_OPTIMISATION,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1010_M09,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1020_M01,LINEAR_ALGEBRA,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1020_M01,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1020_M02,LINEAR_ALGEBRA,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1020_M02,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1020_M03,LINEAR_ALGEBRA,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1020_M03,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1020_M04,LINEAR_ALGEBRA,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1020_M04,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1020_M05,LINEAR_ALGEBRA,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1020_M05,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1020_M06,LINEAR_ALGEBRA,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1020_M06,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1020_M07,LINEAR_ALGEBRA,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1020_M07,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MAL1020_M07,CALCULUS_OPTIMISATION,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),PHL1010_M01,PHYSICS_EM_OPTICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),PHL1010_M01,ENGG_MATHEMATICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),PHL1010_M02,PHYSICS_EM_OPTICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),PHL1010_M03,PHYSICS_EM_OPTICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),PHL1010_M04,PHYSICS_EM_OPTICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),PHL1010_M05,PHYSICS_EM_OPTICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),PHL1010_M06,PHYSICS_EM_OPTICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),CYL1010_M01,GENERAL_CHEMISTRY,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),CYL1010_M02,GENERAL_CHEMISTRY,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),CYL1010_M03,GENERAL_CHEMISTRY,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),CYL1010_M04,GENERAL_CHEMISTRY,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),CYL1010_M04,CHEMICAL_TECHNOLOGY,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),CYL1010_M05,GENERAL_CHEMISTRY,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),CYL1010_M06,GENERAL_CHEMISTRY,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),CYL1010_M07,GENERAL_CHEMISTRY,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),CYL1010_M08,GENERAL_CHEMISTRY,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),EEL1010_M01,BASIC_ELECTRICAL_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),EEL1010_M02,BASIC_ELECTRICAL_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),EEL1010_M03,BASIC_ELECTRICAL_ENGINEERING,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MEL1010_M01,ENGINEERING_MECHANICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MEL1010_M02,ENGINEERING_MECHANICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MEL1010_M03,ENGINEERING_MECHANICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MEL1010_M04,ENGINEERING_MECHANICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MEL1010_M05,ENGINEERING_MECHANICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MEL1010_M06,ENGINEERING_MECHANICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MEL1010_M07,ENGINEERING_MECHANICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),MEL1010_M08,ENGINEERING_MECHANICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),BBL1020_M01,BIOENGINEERING_BASICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),BBL1020_M02,BIOENGINEERING_BASICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),BBL1020_M02,THERMODYNAMICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),BBL1020_M03,BIOENGINEERING_BASICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),BBL1020_M04,BIOENGINEERING_BASICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),BBL1020_M05,BIOENGINEERING_BASICS,Claude mapping from module topics; verify,draft_unverified
+First Year (Common),BBL1020_M06,BIOENGINEERING_BASICS,Claude mapping from module topics; verify,draft_unverified

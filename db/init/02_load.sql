@@ -1,0 +1,16 @@
+COPY goals FROM '/data/goals.csv' WITH (FORMAT csv, HEADER true);
+COPY skills FROM '/data/skills.csv' WITH (FORMAT csv, HEADER true);
+COPY modules FROM '/data/modules.csv' WITH (FORMAT csv, HEADER true);
+COPY courses FROM '/data/courses.csv' WITH (FORMAT csv, HEADER true);
+COPY goal_skill FROM '/data/goal_skill.csv' WITH (FORMAT csv, HEADER true);
+COPY module_skill FROM '/data/module_skill.csv' WITH (FORMAT csv, HEADER true);
+COPY institute_resources FROM '/data/institute_resources.csv' WITH (FORMAT csv, HEADER true);
+COPY external_resources FROM '/data/external_resources.csv' WITH (FORMAT csv, HEADER true);
+COPY question_bank FROM '/data/question_bank.csv' WITH (FORMAT csv, HEADER true);
+COPY faculty FROM '/data/faculty.csv' WITH (FORMAT csv, HEADER true);
+COPY faculty_course FROM '/data/faculty_course.csv' WITH (FORMAT csv, HEADER true);
+COPY skill_overlaps FROM '/data/skill_overlaps.csv' WITH (FORMAT csv, HEADER true);
+COPY prerequisites FROM '/data/prerequisites.csv' WITH (FORMAT csv, HEADER true);
+COPY skill_faculty FROM '/data/skill_faculty.csv' WITH (FORMAT csv, HEADER true);
+COPY resource_coverage FROM '/data/resource_coverage.csv' WITH (FORMAT csv, HEADER true);
+COPY skill_course_sheet FROM '/data/skill_course_sheet.csv' WITH (FORMAT csv, HEADER true);

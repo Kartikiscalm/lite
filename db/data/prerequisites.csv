@@ -1,0 +1,49 @@
+programme,course_id,requires_course_id,requires_text,any_of_group,source,status
+Software,DATA_STRUCTURES_AND_ALGORITHMS,,Introduction to Computer Programming,,CSE-Courses-Details.pdf p.7,draft
+Software,DESIGN_AND_ANALYSIS_OF_ALGORITHMS,DATA_STRUCTURES_AND_ALGORITHMS,Data Structures and Algorithms,,CSE-Courses-Details.pdf p.8,draft
+Software,PATTERN_RECOGNITION_AND_MACHINE_LEARNING,,Introduction to Computer Science,,CSE-Courses-Details.pdf p.11,draft
+Software,PATTERN_RECOGNITION_AND_MACHINE_LEARNING,,"Probability, Statistics and Stochastic Processes",,CSE-Courses-Details.pdf p.11,draft
+Software,PRINCIPLES_OF_COMPUTER_SYSTEMS_I,MATHS_FOR_COMPUTING,Maths for Computing,,CSE-Courses-Details.pdf p.12,draft
+Software,PRINCIPLES_OF_COMPUTER_SYSTEMS_II,PRINCIPLES_OF_COMPUTER_SYSTEMS_I,Principles of Computer Systems - I (Same Semester),,CSE-Courses-Details.pdf p.13,draft
+Software,PRINCIPLES_OF_PROGRAMMING_LANGUAGES,DATA_STRUCTURES_AND_ALGORITHMS,Data Structures and Algorithms,,CSE-Courses-Details.pdf p.14,draft
+Software,PRINCIPLES_OF_PROGRAMMING_LANGUAGES,COMPUTER_ARCHITECTURE,Computer Architecture,,CSE-Courses-Details.pdf p.14,draft
+Software,PRINCIPLES_OF_PROGRAMMING_LANGUAGES,OPERATING_SYSTEMS,Operating Systems,,CSE-Courses-Details.pdf p.14,draft
+Software,SOFTWARE_ENGINEERING,,Introduction to Computer Science,,CSE-Courses-Details.pdf p.15,draft
+Software,ARTIFICIAL_INTELLIGENCE_300,DATA_STRUCTURES_AND_ALGORITHMS,Data Structures and Algorithms,,CSE-Courses-Details.pdf p.16,draft
+Software,COMPUTER_NETWORKS,,Prob. Stat. and Stochastic Process,,CSE-Courses-Details.pdf p.18,draft
+Software,DATABASE_SYSTEMS,DATA_STRUCTURES_AND_ALGORITHMS,Data Structures and Algorithms,,CSE-Courses-Details.pdf p.19,draft
+Software,DATA_ENGINEERING,PRINCIPLES_OF_COMPUTER_SYSTEMS_II,Principles of Computer System - II,A,CSE-Courses-Details.pdf p.20,draft
+Software,DATA_ENGINEERING,OPERATING_SYSTEMS,Operating Systems,A,CSE-Courses-Details.pdf p.20,draft
+Software,MATHS_FOR_BIG_DATA,,Mathematics - II,,CSE-Courses-Details.pdf p.22,draft
+Software,MATHS_FOR_BIG_DATA,,"Probability, Statistics and Stochastic Processes",,CSE-Courses-Details.pdf p.22,draft
+Software,OPERATING_SYSTEMS,DATA_STRUCTURES_AND_ALGORITHMS,Data Structures and Algorithms,,CSE-Courses-Details.pdf p.23,draft
+Software,DATA_VISUALIZATION_400,DATA_ENGINEERING,Data Engineering,A,CSE-Courses-Details.pdf p.24,draft
+Software,DATA_VISUALIZATION_400,DATABASE_SYSTEMS,Database Systems,A,CSE-Courses-Details.pdf p.24,draft
+Software,DEEP_LEARNING_400,,Introduction to Machine Learning,A,CSE-Courses-Details.pdf p.25,draft
+Software,DEEP_LEARNING_400,PATTERN_RECOGNITION_AND_MACHINE_LEARNING,Pattern Recognition and Machine Learning,A,CSE-Courses-Details.pdf p.25,draft
+Software,DEPENDABLE_AI_400,,Introduction to Machine Learning,A,CSE-Courses-Details.pdf p.26,draft
+Software,DEPENDABLE_AI_400,PATTERN_RECOGNITION_AND_MACHINE_LEARNING,Pattern Recognition and Machine Learning,A,CSE-Courses-Details.pdf p.26,draft
+Software,DEPENDABLE_AI_400,,AI,,CSE-Courses-Details.pdf p.26,draft
+Software,OPTIMIZATION_IN_ML,PATTERN_RECOGNITION_AND_MACHINE_LEARNING,PRML,A,CSE-Courses-Details.pdf p.27,draft
+Software,OPTIMIZATION_IN_ML,,Introduction to ML,A,CSE-Courses-Details.pdf p.27,draft
+Software,THEORY_OF_COMPUTATION,MATHS_FOR_COMPUTING,Maths for Computing,,CSE-Courses-Details.pdf p.28,draft
+Chemical Engineering,HEAT_TRANSFER,,Basics of Thermodynamics,,iitj-chemical-curriculum.pdf p.26,draft
+Chemical Engineering,HEAT_TRANSFER,FLUID_MECHANICS,Basics of Fluid Mechanics,,iitj-chemical-curriculum.pdf p.26,draft
+Chemical Engineering,HEAT_TRANSFER_LAB,,Heat and Mass Transfer,,iitj-chemical-curriculum.pdf p.30,draft
+Chemical Engineering,MASS_TRANSFER_II,MASS_TRANSFER_I,Mass Transfer I,,iitj-chemical-curriculum.pdf p.31,draft
+Chemical Engineering,FLUID_MECHANICS_LAB,FLUID_MECHANICS,Fluid Mechanics,,iitj-chemical-curriculum.pdf p.38,draft
+Chemical Engineering,MEMBRANE_TECHNOLOGY,FLUID_MECHANICS,Fluid Mechanics,,iitj-chemical-curriculum.pdf p.42,draft
+Chemical Engineering,APPLICATIONS_OF_ARTIFICIAL_INTELLIGENCE_IN_CHEMICAL_ENGINEERING,MATERIAL_AND_ENERGY_BALANCE,Material and Energy Balance,,iitj-chemical-curriculum.pdf p.43,draft
+Chemical Engineering,APPLICATIONS_OF_ARTIFICIAL_INTELLIGENCE_IN_CHEMICAL_ENGINEERING,SCIENTIFIC_COMPUTATIONS,Scientific Computations,,iitj-chemical-curriculum.pdf p.43,draft
+Chemical Engineering,BASICS_OF_RELIABILITY_AND_MAINTAINABILITY_ENGINEERING_FOR_SYSTEM_SAFETY,,Mathematics I,,iitj-chemical-curriculum.pdf p.47,draft
+Chemical Engineering,BASICS_OF_RELIABILITY_AND_MAINTAINABILITY_ENGINEERING_FOR_SYSTEM_SAFETY,,Mathematics II,,iitj-chemical-curriculum.pdf p.47,draft
+Chemical Engineering,INTRODUCTION_TO_COMPLEX_FLUIDS,FLUID_MECHANICS,Fluid Mechanics,,iitj-chemical-curriculum.pdf p.48,draft
+Chemical Engineering,BIOPRINTING,,Basic knowledge of bioengineering,,iitj-chemical-curriculum.pdf p.50,draft
+Chemical Engineering,ORGANIC_MOLECULES_COMPLEXES_AND_POLYMERS_FOR_ELECTRONICS_AND_OPTOELECTRONICS,,Polymer as material fractal,,iitj-chemical-curriculum.pdf p.61; credits from the elective list on p.10 (not stated on the course page),draft
+Chemical Engineering,BIOPROCESS_TECHNOLOGY,BIOCHEMICAL_ENGINEERING,An introductory course on Biochemical Engineering,,iitj-chemical-curriculum.pdf p.64; credits from the elective list on p.10 (not stated on the course page),draft
+Chemical Engineering,CHEMOMETRICS,,basics of chemical engineering,,iitj-chemical-curriculum.pdf p.71,draft
+Chemical Engineering,ARTIFICIAL_INTELLIGENCE_IN_CHEMICAL_REACTOR_CONTROL,MATERIAL_AND_ENERGY_BALANCE,Material and Energy Balance,,iitj-chemical-curriculum.pdf p.72,draft
+Chemical Engineering,ARTIFICIAL_INTELLIGENCE_IN_CHEMICAL_REACTOR_CONTROL,CHEMICAL_REACTION_ENGINEERING,Chemical Reaction Engineering,,iitj-chemical-curriculum.pdf p.72,draft
+Chemical Engineering,ARTIFICIAL_INTELLIGENCE_IN_CHEMICAL_REACTOR_CONTROL,SCIENTIFIC_COMPUTATIONS,Scientific Computations,,iitj-chemical-curriculum.pdf p.72,draft
+Chemical Engineering,OCEAN_THERMAL_ENERGY_CONVERSION_OTEC_PROCESS,,Thermodynamics,,iitj-chemical-curriculum.pdf p.78; credits worked out from L-T-P with the Table 3 rule on p.8 (not stated on the course page),draft
+Chemical Engineering,POLYMERS_FOR_ELECTRONICS_AND_OPTOELECTRONICS,,Polymer as material fractal,,iitj-chemical-curriculum.pdf p.86; credits worked out from L-T-P with the Table 3 rule on p.8 (not stated on the course page),draft

@@ -1,0 +1,339 @@
+programme,goal_id,skill_id,priority,target_level,weight,source,status
+Software,SWE,PROGRAMMING,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,DSA,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,CODING_PROBLEM_SOLVING,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,OOP_DESIGN,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,DBMS_SQL,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,WEB_FRONTEND,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,WEB_BACKEND,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,LINEAR_ALGEBRA,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,PROBABILITY_STATISTICS,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,MACHINE_LEARNING,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,DATA_ANALYSIS,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,OPERATING_SYSTEMS,should,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,COMPUTER_NETWORKS,should,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,SYSTEM_DESIGN,should,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,SOFTWARE_ENGINEERING,should,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,CLOUD_DEVOPS,should,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,CALCULUS_OPTIMISATION,should,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,DEEP_LEARNING,should,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,APTITUDE_REASONING,should,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,TECHNICAL_COMMUNICATION,should,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,SECURITY_BASICS,nice,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,DISCRETE_MATH,nice,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE_BACKEND,PROGRAMMING,must,,,Draft tier: O*NET 15-1252.00 Software Developers summary lists Programming as a transferable skill; target_level and weight to be set from placement-cell survey,draft
+Software,SWE_BACKEND,DSA,must,,,Draft tier: Claude draft from general knowledge of campus coding rounds; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,SWE_BACKEND,CODING_PROBLEM_SOLVING,must,,,Draft tier: O*NET 15-1252.00 Software Developers summary lists Complex Problem Solving; timed-round emphasis is Claude draft from general knowledge; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,SWE_BACKEND,DBMS_SQL,must,,,Draft tier: O*NET 15-1252.00 Software Developers summary lists data base management system software with PostgreSQL in-demand; Stack Overflow Developer Survey 2025 technology page: SQL used by 61.3% of professional developers; target_level and weight to be set from placement-cell survey,draft
+Software,SWE_BACKEND,OOP_DESIGN,must,,,Draft tier: O*NET 15-1252.00 Software Developers summary lists object or component oriented development software; tier is Claude draft from general knowledge; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,SWE_BACKEND,WEB_BACKEND,must,,,Draft tier: O*NET 15-1252.00 Software Developers summary marks Spring Boot and Spring Framework in-demand; target_level and weight to be set from placement-cell survey,draft
+Software,SWE_BACKEND,OPERATING_SYSTEMS,should,,,Draft tier: Claude draft from general knowledge of interview theory rounds; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,SWE_BACKEND,COMPUTER_NETWORKS,should,,,Draft tier: Claude draft from general knowledge of interview theory rounds; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,SWE_BACKEND,SYSTEM_DESIGN,should,,,Draft tier: O*NET 15-1252.00 Software Developers summary task: design systems with analysts and engineers; target_level and weight to be set from placement-cell survey,draft
+Software,SWE_BACKEND,SOFTWARE_ENGINEERING,should,,,Draft tier: O*NET 15-1252.00 Software Developers summary task on software testing and validation; Git and Jenkins CI marked in-demand; target_level and weight to be set from placement-cell survey,draft
+Software,SWE_BACKEND,CLOUD_DEVOPS,should,,,Draft tier: O*NET 15-1252.00 Software Developers summary marks Terraform and Jenkins CI in-demand; Stack Overflow Developer Survey 2025 technology page: Docker used by 73.8% of professional developers; target_level and weight to be set from placement-cell survey,draft
+Software,SWE_BACKEND,APTITUDE_REASONING,should,,,Draft tier: Claude draft from general knowledge of Indian campus online assessments; verify with placement cell; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,SWE_BACKEND,TECHNICAL_COMMUNICATION,should,,,"Draft tier: O*NET 15-1252.00 Software Developers summary essential skills include Speaking, Writing and Active Listening; target_level and weight to be set from placement-cell survey",draft
+Software,SWE_BACKEND,SECURITY_BASICS,nice,,,Draft tier: O*NET 15-1252.00 Software Developers summary lists a transaction security software category; tier is Claude draft from general knowledge; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,SWE_BACKEND,DISCRETE_MATH,nice,,,Draft tier: O*NET 15-1252.00 Software Developers summary lists Mathematics under knowledge; tier is Claude draft from general knowledge; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,SWE_WEB,PROGRAMMING,must,,,Draft tier: O*NET 15-1254.00 Web Developers summary task: write supporting code for Web applications or Web sites; target_level and weight to be set from placement-cell survey,draft
+Software,SWE_WEB,WEB_FRONTEND,must,,,"Draft tier: O*NET 15-1254.00 Web Developers summary marks React, Vue.js and jQuery in-demand; Stack Overflow Developer Survey 2025 technology page: JavaScript 68.8% and HTML/CSS 63% of professional developers; target_level and weight to be set from placement-cell survey",draft
+Software,SWE_WEB,WEB_BACKEND,must,,,Draft tier: O*NET 15-1254.00 Web Developers summary marks Spring Boot and Spring Framework in-demand; Stack Overflow Developer Survey 2025 technology page: Node.js 49.1% of professional developers; target_level and weight to be set from placement-cell survey,draft
+Software,SWE_WEB,DBMS_SQL,must,,,Draft tier: O*NET 15-1254.00 Web Developers summary marks PostgreSQL in-demand; Stack Overflow Developer Survey 2025 technology page: SQL used by 61.3% of professional developers; target_level and weight to be set from placement-cell survey,draft
+Software,SWE_WEB,DSA,should,,,Draft tier: Claude draft from general knowledge of campus coding rounds; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,SWE_WEB,CODING_PROBLEM_SOLVING,should,,,Draft tier: Claude draft from general knowledge of campus coding rounds; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,SWE_WEB,SOFTWARE_ENGINEERING,should,,,"Draft tier: O*NET 15-1254.00 Web Developers summary task: evaluate code for validity, structure and standards; Git marked in-demand; target_level and weight to be set from placement-cell survey",draft
+Software,SWE_WEB,COMPUTER_NETWORKS,should,,,Draft tier: Claude draft from general knowledge; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,SWE_WEB,OOP_DESIGN,should,,,Draft tier: Claude draft from general knowledge; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,SWE_WEB,APTITUDE_REASONING,should,,,Draft tier: Claude draft from general knowledge of Indian campus online assessments; verify with placement cell; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,SWE_WEB,TECHNICAL_COMMUNICATION,should,,,Draft tier: O*NET 15-1254.00 Web Developers summary essential skills include Speaking and Writing; target_level and weight to be set from placement-cell survey,draft
+Software,SWE_WEB,SYSTEM_DESIGN,nice,,,Draft tier: Claude draft from general knowledge; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,SWE_WEB,CLOUD_DEVOPS,nice,,,Draft tier: O*NET 15-1254.00 Web Developers summary marks Kubernetes and Jenkins CI in-demand; target_level and weight to be set from placement-cell survey,draft
+Software,SWE_WEB,SECURITY_BASICS,nice,,,Draft tier: Claude draft from general knowledge; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,ML_ENGINEER,PROGRAMMING,must,,,"Draft tier: O*NET 15-2051.00 Data Scientists summary lists object or component oriented development software and TensorFlow, PyTorch; Stack Overflow Developer Survey 2025 technology page: Python used by 57.9% of all respondents; target_level and weight to be set from placement-cell survey",draft
+Software,ML_ENGINEER,MACHINE_LEARNING,must,,,"Draft tier: O*NET 15-2051.00 Data Scientists summary task: test, validate and reformulate models to ensure accurate prediction; target_level and weight to be set from placement-cell survey",draft
+Software,ML_ENGINEER,PROBABILITY_STATISTICS,must,,,Draft tier: O*NET 15-2051.00 Data Scientists summary task: analyze large data sets using statistical software; Mathematics listed first under knowledge; target_level and weight to be set from placement-cell survey,draft
+Software,ML_ENGINEER,LINEAR_ALGEBRA,must,,,Draft tier: O*NET 15-2051.00 Data Scientists summary lists Mathematics first under knowledge and essential skills; linear-algebra emphasis is Claude draft from general knowledge; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,ML_ENGINEER,DATA_ANALYSIS,must,,,Draft tier: O*NET 15-2051.00 Data Scientists summary tasks: process large data sets; create graphs and visualizations; target_level and weight to be set from placement-cell survey,draft
+Software,ML_ENGINEER,DSA,should,,,Draft tier: Claude draft from general knowledge of campus coding rounds; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,ML_ENGINEER,CODING_PROBLEM_SOLVING,should,,,Draft tier: Claude draft from general knowledge of campus coding rounds; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,ML_ENGINEER,DEEP_LEARNING,should,,,Draft tier: O*NET 15-2051.00 Data Scientists summary lists TensorFlow and PyTorch; target_level and weight to be set from placement-cell survey,draft
+Software,ML_ENGINEER,CALCULUS_OPTIMISATION,should,,,Draft tier: O*NET 15-2051.00 Data Scientists summary lists Mathematics first under knowledge; calculus emphasis is Claude draft from general knowledge; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,ML_ENGINEER,DBMS_SQL,should,,,Draft tier: O*NET 15-2051.00 Data Scientists summary lists data base management system software including MongoDB and PostgreSQL; target_level and weight to be set from placement-cell survey,draft
+Software,ML_ENGINEER,SOFTWARE_ENGINEERING,should,,,Draft tier: O*NET 15-2051.00 Data Scientists summary lists Git and Jenkins CI; target_level and weight to be set from placement-cell survey,draft
+Software,ML_ENGINEER,APTITUDE_REASONING,should,,,Draft tier: Claude draft from general knowledge of Indian campus online assessments; verify with placement cell; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,ML_ENGINEER,TECHNICAL_COMMUNICATION,should,,,Draft tier: O*NET 15-2051.00 Data Scientists summary task: deliver oral or written presentations of results; target_level and weight to be set from placement-cell survey,draft
+Software,ML_ENGINEER,CLOUD_DEVOPS,nice,,,"Draft tier: O*NET 15-2051.00 Data Scientists summary lists Docker, Kubernetes and AWS SageMaker; target_level and weight to be set from placement-cell survey",draft
+Software,ML_ENGINEER,SYSTEM_DESIGN,nice,,,Draft tier: Claude draft from general knowledge; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Software,ML_ENGINEER,OOP_DESIGN,nice,,,Draft tier: Claude draft from general knowledge; verify; target_level and weight to be set from placement-cell survey,draft_unverified
+Chemical Engineering,CHE_HS,ENGG_MATHEMATICS,must,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,THERMODYNAMICS,must,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,FLUID_MECH_OPERATIONS,must,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,HEAT_TRANSFER,must,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,MASS_TRANSFER,must,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,REACTION_ENGINEERING,must,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,QUANTITATIVE_REASONING,must,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,ACADEMIC_ENGLISH,must,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,LITERATURE_REVIEW,must,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,RESEARCH_METHODS,must,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,DATA_ANALYSIS_STATS,must,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,TECHNICAL_WRITING,must,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,PROCESS_CALCULATIONS,should,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,PROCESS_CONTROL,should,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,PLANT_DESIGN_ECONOMICS,should,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,CHEMICAL_TECHNOLOGY,should,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,VERBAL_REASONING,should,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,ANALYTICAL_WRITING,should,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,SCIENTIFIC_COMPUTING,should,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,RESEARCH_PRESENTATION,should,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,LAB_PRACTICE_SAFETY,should,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS,RESEARCH_ETHICS,should,,,"Union of child goals, highest priority",draft_unverified
+Chemical Engineering,CHE_HS_GATE,ENGG_MATHEMATICS,must,,,Draft tier: GATE 2027 question paper pattern (IIT Madras): Engineering Mathematics carries 13 of 100 marks in CH; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_GATE,QUANTITATIVE_REASONING,must,,,Draft tier: GATE 2027 question paper pattern (IIT Madras): General Aptitude carries 15 of 100 marks; split within General Aptitude is Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_GATE,THERMODYNAMICS,must,,,Draft tier: GATE 2027 CH syllabus (IIT Madras) Section 3; tier among core sections is Claude judgement pending past-paper counts; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_GATE,FLUID_MECH_OPERATIONS,must,,,Draft tier: GATE 2027 CH syllabus (IIT Madras) Section 4; tier among core sections is Claude judgement pending past-paper counts; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_GATE,HEAT_TRANSFER,must,,,Draft tier: GATE 2027 CH syllabus (IIT Madras) Section 5; tier among core sections is Claude judgement pending past-paper counts; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_GATE,MASS_TRANSFER,must,,,Draft tier: GATE 2027 CH syllabus (IIT Madras) Section 6; tier among core sections is Claude judgement pending past-paper counts; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_GATE,REACTION_ENGINEERING,must,,,Draft tier: GATE 2027 CH syllabus (IIT Madras) Section 7; tier among core sections is Claude judgement pending past-paper counts; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_GATE,PROCESS_CALCULATIONS,should,,,Draft tier: GATE 2027 CH syllabus (IIT Madras) Section 2; tier among core sections is Claude judgement pending past-paper counts; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_GATE,PROCESS_CONTROL,should,,,Draft tier: GATE 2027 CH syllabus (IIT Madras) Section 8; tier among core sections is Claude judgement pending past-paper counts; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_GATE,PLANT_DESIGN_ECONOMICS,should,,,Draft tier: GATE 2027 CH syllabus (IIT Madras) Section 9; tier among core sections is Claude judgement pending past-paper counts; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_GATE,CHEMICAL_TECHNOLOGY,should,,,Draft tier: GATE 2027 CH syllabus (IIT Madras) Section 10; tier among core sections is Claude judgement pending past-paper counts; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_GATE,VERBAL_REASONING,should,,,Draft tier: GATE 2027 question paper pattern (IIT Madras): General Aptitude carries 15 of 100 marks; split within General Aptitude is Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_ABROAD,ACADEMIC_ENGLISH,must,,,Draft tier: ETS TOEFL iBT test content page: four sections; that target universities require an English test is Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft_unverified
+Chemical Engineering,CHE_HS_ABROAD,TECHNICAL_WRITING,must,,,Draft tier: Adobe problem statement Appendix A (higher studies persona) names technical writing; weight of the statement of purpose in admission is Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft_unverified
+Chemical Engineering,CHE_HS_ABROAD,QUANTITATIVE_REASONING,should,,,Draft tier: ETS GRE General Test structure page: Quantitative Reasoning measure; whether target programmes require GRE is Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft_unverified
+Chemical Engineering,CHE_HS_ABROAD,VERBAL_REASONING,should,,,Draft tier: ETS GRE General Test structure page: Verbal Reasoning measure; whether target programmes require GRE is Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft_unverified
+Chemical Engineering,CHE_HS_ABROAD,ANALYTICAL_WRITING,should,,,Draft tier: ETS GRE General Test structure page: Analytical Writing measure; whether target programmes require GRE is Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft_unverified
+Chemical Engineering,CHE_HS_ABROAD,LITERATURE_REVIEW,should,,,Draft tier: Adobe problem statement Appendix A (higher studies persona) names reading papers as a research skill; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_ABROAD,RESEARCH_METHODS,should,,,Draft tier: O*NET 17-2041.00 Chemical Engineers summary task: conduct research to develop new processes; tier is Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft_unverified
+Chemical Engineering,CHE_HS_ABROAD,ENGG_MATHEMATICS,should,,,Draft tier: O*NET 17-2041.00 Chemical Engineers summary lists Mathematics under knowledge; tier is Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft_unverified
+Chemical Engineering,CHE_HS_ABROAD,THERMODYNAMICS,should,,,Draft tier: Claude draft from general knowledge of graduate core courses; verify; target_level and weight to be set by the team,draft_unverified
+Chemical Engineering,CHE_HS_ABROAD,REACTION_ENGINEERING,should,,,Draft tier: Claude draft from general knowledge of graduate core courses; verify; target_level and weight to be set by the team,draft_unverified
+Chemical Engineering,CHE_HS_ABROAD,SCIENTIFIC_COMPUTING,should,,,Draft tier: O*NET 17-2041.00 Chemical Engineers summary task: develop computer models of chemical processes; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_ABROAD,RESEARCH_PRESENTATION,should,,,Draft tier: Claude draft from general knowledge of admission interviews; verify; target_level and weight to be set by the team,draft_unverified
+Chemical Engineering,CHE_HS_ABROAD,DATA_ANALYSIS_STATS,nice,,,Draft tier: O*NET 17-2041.00 Chemical Engineers summary task: monitor and analyze data from processes and experiments; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_ABROAD,RESEARCH_ETHICS,nice,,,Draft tier: Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft_unverified
+Chemical Engineering,CHE_HS_RESEARCH,LITERATURE_REVIEW,must,,,Draft tier: Adobe problem statement Appendix A (higher studies persona) names reading papers as a research skill; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_RESEARCH,TECHNICAL_WRITING,must,,,Draft tier: Adobe problem statement Appendix A (higher studies persona) names technical writing as a research skill; O*NET 17-2041.00 Chemical Engineers summary essential skills include Writing; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_RESEARCH,RESEARCH_METHODS,must,,,Draft tier: O*NET 17-2041.00 Chemical Engineers summary tasks: conduct research to develop new processes; perform laboratory studies; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_RESEARCH,DATA_ANALYSIS_STATS,must,,,Draft tier: O*NET 17-2041.00 Chemical Engineers summary task: monitor and analyze data from processes and experiments; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_RESEARCH,SCIENTIFIC_COMPUTING,should,,,Draft tier: O*NET 17-2041.00 Chemical Engineers summary task: develop computer models of chemical processes; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_RESEARCH,RESEARCH_PRESENTATION,should,,,Draft tier: O*NET 17-2041.00 Chemical Engineers summary essential skills include Speaking; viva format is Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_RESEARCH,LAB_PRACTICE_SAFETY,should,,,Draft tier: O*NET 17-2041.00 Chemical Engineers summary tasks: perform laboratory studies; develop safety procedures; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_RESEARCH,ENGG_MATHEMATICS,should,,,Draft tier: O*NET 17-2041.00 Chemical Engineers summary lists Mathematics under knowledge and essential skills; target_level and weight to be set by the team,draft
+Chemical Engineering,CHE_HS_RESEARCH,THERMODYNAMICS,should,,,Draft tier: Depends on research area; Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft_unverified
+Chemical Engineering,CHE_HS_RESEARCH,FLUID_MECH_OPERATIONS,should,,,Draft tier: O*NET 17-2041.00 Chemical Engineers summary task: arrange operations such as mixing and crushing; depends on research area; Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft_unverified
+Chemical Engineering,CHE_HS_RESEARCH,HEAT_TRANSFER,should,,,Draft tier: O*NET 17-2041.00 Chemical Engineers summary task: arrange operations such as heat transfer; depends on research area; Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft_unverified
+Chemical Engineering,CHE_HS_RESEARCH,MASS_TRANSFER,should,,,Draft tier: O*NET 17-2041.00 Chemical Engineers summary task: arrange operations such as distillation and drying; depends on research area; Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft_unverified
+Chemical Engineering,CHE_HS_RESEARCH,REACTION_ENGINEERING,should,,,Draft tier: Depends on research area; Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft_unverified
+Chemical Engineering,CHE_HS_RESEARCH,RESEARCH_ETHICS,should,,,Draft tier: Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft_unverified
+Chemical Engineering,CHE_HS_RESEARCH,ACADEMIC_ENGLISH,nice,,,Draft tier: O*NET 17-2041.00 Chemical Engineers summary lists English Language under knowledge; tier is Claude draft from general knowledge; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_SCIENTIST,PROGRAMMING,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_SCIENTIST,DATA_ANALYSIS,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_SCIENTIST,PROBABILITY_STATISTICS,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_SCIENTIST,DBMS_SQL,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_SCIENTIST,MACHINE_LEARNING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_SCIENTIST,LINEAR_ALGEBRA,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_SCIENTIST,TECHNICAL_COMMUNICATION,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_SCIENTIST,APTITUDE_REASONING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_SCIENTIST,DSA,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_SCIENTIST,CODING_PROBLEM_SOLVING,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_SCIENTIST,DEEP_LEARNING,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_SCIENTIST,CALCULUS_OPTIMISATION,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_SCIENTIST,DATA_ENGINEERING,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_ENGINEER,PROGRAMMING,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_ENGINEER,DBMS_SQL,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_ENGINEER,DATA_ENGINEERING,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_ENGINEER,DSA,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_ENGINEER,CODING_PROBLEM_SOLVING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_ENGINEER,OPERATING_SYSTEMS,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_ENGINEER,CLOUD_DEVOPS,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_ENGINEER,SYSTEM_DESIGN,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_ENGINEER,DATA_ANALYSIS,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_ENGINEER,SOFTWARE_ENGINEERING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_ENGINEER,APTITUDE_REASONING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_ENGINEER,TECHNICAL_COMMUNICATION,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_ENGINEER,COMPUTER_NETWORKS,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_ENGINEER,MACHINE_LEARNING,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DEVOPS_CLOUD,CLOUD_DEVOPS,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DEVOPS_CLOUD,OPERATING_SYSTEMS,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DEVOPS_CLOUD,COMPUTER_NETWORKS,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DEVOPS_CLOUD,PROGRAMMING,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DEVOPS_CLOUD,SOFTWARE_ENGINEERING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DEVOPS_CLOUD,SECURITY_BASICS,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DEVOPS_CLOUD,SYSTEM_DESIGN,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DEVOPS_CLOUD,DBMS_SQL,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DEVOPS_CLOUD,DSA,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DEVOPS_CLOUD,APTITUDE_REASONING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DEVOPS_CLOUD,TECHNICAL_COMMUNICATION,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DEVOPS_CLOUD,CODING_PROBLEM_SOLVING,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DEVOPS_CLOUD,WEB_BACKEND,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SECURITY_ENGINEER,SECURITY_BASICS,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SECURITY_ENGINEER,COMPUTER_NETWORKS,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SECURITY_ENGINEER,OPERATING_SYSTEMS,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SECURITY_ENGINEER,PROGRAMMING,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SECURITY_ENGINEER,DISCRETE_MATH,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SECURITY_ENGINEER,WEB_BACKEND,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SECURITY_ENGINEER,DBMS_SQL,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SECURITY_ENGINEER,CLOUD_DEVOPS,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SECURITY_ENGINEER,DSA,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SECURITY_ENGINEER,APTITUDE_REASONING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SECURITY_ENGINEER,TECHNICAL_COMMUNICATION,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SECURITY_ENGINEER,CODING_PROBLEM_SOLVING,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SECURITY_ENGINEER,SOFTWARE_ENGINEERING,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,MOBILE_DEVELOPER,PROGRAMMING,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,MOBILE_DEVELOPER,MOBILE_DEV,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,MOBILE_DEVELOPER,OOP_DESIGN,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,MOBILE_DEVELOPER,DSA,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,MOBILE_DEVELOPER,CODING_PROBLEM_SOLVING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,MOBILE_DEVELOPER,WEB_BACKEND,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,MOBILE_DEVELOPER,DBMS_SQL,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,MOBILE_DEVELOPER,SOFTWARE_ENGINEERING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,MOBILE_DEVELOPER,COMPUTER_NETWORKS,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,MOBILE_DEVELOPER,APTITUDE_REASONING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,MOBILE_DEVELOPER,TECHNICAL_COMMUNICATION,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,MOBILE_DEVELOPER,WEB_FRONTEND,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,MOBILE_DEVELOPER,SYSTEM_DESIGN,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,MOBILE_DEVELOPER,SECURITY_BASICS,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QA_SDET,PROGRAMMING,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QA_SDET,SOFTWARE_TESTING,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QA_SDET,SOFTWARE_ENGINEERING,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QA_SDET,DSA,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QA_SDET,CODING_PROBLEM_SOLVING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QA_SDET,OOP_DESIGN,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QA_SDET,DBMS_SQL,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QA_SDET,WEB_BACKEND,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QA_SDET,CLOUD_DEVOPS,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QA_SDET,APTITUDE_REASONING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QA_SDET,TECHNICAL_COMMUNICATION,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QA_SDET,OPERATING_SYSTEMS,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QA_SDET,COMPUTER_NETWORKS,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,EMBEDDED_ENGINEER,PROGRAMMING,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,EMBEDDED_ENGINEER,EMBEDDED_SYSTEMS,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,EMBEDDED_ENGINEER,OPERATING_SYSTEMS,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,EMBEDDED_ENGINEER,COMPUTER_ARCHITECTURE,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,EMBEDDED_ENGINEER,DSA,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,EMBEDDED_ENGINEER,CODING_PROBLEM_SOLVING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,EMBEDDED_ENGINEER,COMPUTER_NETWORKS,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,EMBEDDED_ENGINEER,DISCRETE_MATH,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,EMBEDDED_ENGINEER,SOFTWARE_ENGINEERING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,EMBEDDED_ENGINEER,APTITUDE_REASONING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,EMBEDDED_ENGINEER,TECHNICAL_COMMUNICATION,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,EMBEDDED_ENGINEER,SECURITY_BASICS,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATABASE_ENGINEER,DBMS_SQL,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATABASE_ENGINEER,PROGRAMMING,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATABASE_ENGINEER,OPERATING_SYSTEMS,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATABASE_ENGINEER,DATA_ENGINEERING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATABASE_ENGINEER,SYSTEM_DESIGN,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATABASE_ENGINEER,CLOUD_DEVOPS,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATABASE_ENGINEER,SECURITY_BASICS,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATABASE_ENGINEER,DSA,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATABASE_ENGINEER,APTITUDE_REASONING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATABASE_ENGINEER,TECHNICAL_COMMUNICATION,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATABASE_ENGINEER,COMPUTER_NETWORKS,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATABASE_ENGINEER,CODING_PROBLEM_SOLVING,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATABASE_ENGINEER,WEB_BACKEND,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QUANT_DEVELOPER,DSA,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QUANT_DEVELOPER,CODING_PROBLEM_SOLVING,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QUANT_DEVELOPER,PROBABILITY_STATISTICS,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QUANT_DEVELOPER,PROGRAMMING,must,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QUANT_DEVELOPER,DISCRETE_MATH,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QUANT_DEVELOPER,APTITUDE_REASONING,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QUANT_DEVELOPER,OPERATING_SYSTEMS,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QUANT_DEVELOPER,COMPUTER_ARCHITECTURE,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QUANT_DEVELOPER,LINEAR_ALGEBRA,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QUANT_DEVELOPER,CALCULUS_OPTIMISATION,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QUANT_DEVELOPER,MACHINE_LEARNING,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QUANT_DEVELOPER,COMPUTER_NETWORKS,nice,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QUANT_DEVELOPER,TECHNICAL_COMMUNICATION,should,,,Draft tier: Claude draft from general knowledge of Indian campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SWE,DATA_ENGINEERING,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,MOBILE_DEV,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,SOFTWARE_TESTING,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,EMBEDDED_SYSTEMS,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,COMPUTER_ARCHITECTURE,must,,,"Union of child goals, highest priority",draft_unverified
+Software,AI_ENGINEER,PROGRAMMING,must,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,AI_ENGINEER,AI_ENGINEERING,must,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,AI_ENGINEER,AI_SAFETY_EVALUATION,must,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,AI_ENGINEER,WEB_BACKEND,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,AI_ENGINEER,DBMS_SQL,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,AI_ENGINEER,MACHINE_LEARNING,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,AI_ENGINEER,DEEP_LEARNING,nice,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,AI_ENGINEER,SOFTWARE_ENGINEERING,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,AI_ENGINEER,CLOUD_DEVOPS,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,AI_ENGINEER,DEV_TOOLS,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,AI_ENGINEER,DSA,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,AI_ENGINEER,CODING_PROBLEM_SOLVING,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,AI_ENGINEER,SYSTEM_DESIGN,nice,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,AI_ENGINEER,SECURITY_BASICS,nice,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,AI_ENGINEER,APTITUDE_REASONING,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,AI_ENGINEER,TECHNICAL_COMMUNICATION,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,AI_ENGINEER,DATA_ANALYSIS,nice,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,ML_ENGINEER,MLOPS,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,ML_ENGINEER,AI_ENGINEERING,nice,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,ML_ENGINEER,DEV_TOOLS,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_SCIENTIST,EXPERIMENTATION_STATS,must,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_SCIENTIST,MLOPS,nice,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_SCIENTIST,AI_ENGINEERING,nice,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_SCIENTIST,DEV_TOOLS,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATA_ENGINEER,DEV_TOOLS,must,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DEVOPS_CLOUD,DEV_TOOLS,must,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SWE_BACKEND,DEV_TOOLS,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SWE_WEB,DEV_TOOLS,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,MOBILE_DEVELOPER,DEV_TOOLS,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QA_SDET,DEV_TOOLS,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SECURITY_ENGINEER,DEV_TOOLS,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,DATABASE_ENGINEER,DEV_TOOLS,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,EMBEDDED_ENGINEER,DEV_TOOLS,should,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,QUANT_DEVELOPER,DEV_TOOLS,nice,,,Draft tier: Claude draft from the user-supplied roadmap summaries (13 Nov 2026) and general knowledge of campus hiring; verify; target_level and weight to be set by the team,draft_unverified
+Software,SWE,AI_ENGINEERING,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,AI_SAFETY_EVALUATION,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,DEV_TOOLS,must,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,MLOPS,should,,,"Union of child goals, highest priority",draft_unverified
+Software,SWE,EXPERIMENTATION_STATS,must,,,"Union of child goals, highest priority",draft_unverified
+UPSC,UPSC_CSE,ANSWER_WRITING,must,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_CSE,CSAT,must,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_CSE,CURRENT_AFFAIRS,must,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_CSE,ECONOMY,must,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_CSE,ENVIRONMENT,must,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_CSE,ESSAY,must,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_CSE,ETHICS,must,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_CSE,GEOGRAPHY,must,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_CSE,HISTORY,must,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_CSE,OPTIONAL,must,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_CSE,PERSONALITY,must,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_CSE,POLITY,must,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_CSE,ART_CULTURE,should,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_CSE,GOVERNANCE,should,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_CSE,INTL_RELATIONS,should,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_CSE,SCI_TECH,should,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_CSE,SOCIETY,should,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_CSE,INTERNAL_SECURITY,nice,,,"Union of UPSC_PRELIMS, UPSC_MAINS, UPSC_INTERVIEW (highest priority across stages); target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_PRELIMS,HISTORY,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_PRELIMS,GEOGRAPHY,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_PRELIMS,POLITY,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_PRELIMS,ECONOMY,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_PRELIMS,ENVIRONMENT,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_PRELIMS,CURRENT_AFFAIRS,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_PRELIMS,CSAT,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_PRELIMS,SCI_TECH,should,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_PRELIMS,ART_CULTURE,should,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_MAINS,ANSWER_WRITING,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_MAINS,ESSAY,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_MAINS,ETHICS,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_MAINS,OPTIONAL,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_MAINS,HISTORY,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_MAINS,GEOGRAPHY,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_MAINS,POLITY,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_MAINS,ECONOMY,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_MAINS,CURRENT_AFFAIRS,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_MAINS,ENVIRONMENT,should,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_MAINS,SCI_TECH,should,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_MAINS,SOCIETY,should,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_MAINS,GOVERNANCE,should,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_MAINS,INTL_RELATIONS,should,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_MAINS,ART_CULTURE,should,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_MAINS,INTERNAL_SECURITY,nice,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_INTERVIEW,PERSONALITY,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_INTERVIEW,CURRENT_AFFAIRS,must,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
+UPSC,UPSC_INTERVIEW,OPTIONAL,should,,,"Draft tier by Claude from exam structure; priority, target_level and weight to be set from PYQ counts and review",draft_unverified
